@@ -1,0 +1,214 @@
+import requests
+from bs4 import BeautifulSoup
+import urllib.request
+
+import random
+#########################################################useragent
+def userAgent():
+    user_agents = [
+    "Mozilla/5.0 (Linux; U; Android 2.3.6; en-us; Nexus S Build/GRK39F) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1",
+    "Avant Browser/1.2.789rel1 (http://www.avantbrowser.com)",
+    "Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US) AppleWebKit/532.5 (KHTML, like Gecko) Chrome/4.0.249.0 Safari/532.5",
+    "Mozilla/5.0 (Windows; U; Windows NT 5.2; en-US) AppleWebKit/532.9 (KHTML, like Gecko) Chrome/5.0.310.0 Safari/532.9",
+    "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) AppleWebKit/534.7 (KHTML, like Gecko) Chrome/7.0.514.0 Safari/534.7",
+    "Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US) AppleWebKit/534.14 (KHTML, like Gecko) Chrome/9.0.601.0 Safari/534.14",
+    "Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US) AppleWebKit/534.14 (KHTML, like Gecko) Chrome/10.0.601.0 Safari/534.14",
+    "Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US) AppleWebKit/534.20 (KHTML, like Gecko) Chrome/11.0.672.2 Safari/534.20",
+    "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/534.27 (KHTML, like Gecko) Chrome/12.0.712.0 Safari/534.27",
+    "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/13.0.782.24 Safari/535.1",
+    "Mozilla/5.0 (Windows NT 6.0) AppleWebKit/535.2 (KHTML, like Gecko) Chrome/15.0.874.120 Safari/535.2",
+    "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.7 (KHTML, like Gecko) Chrome/16.0.912.36 Safari/535.7",
+    "Mozilla/5.0 (Windows; U; Windows NT 6.0 x64; en-US; rv:1.9pre) Gecko/2008072421 Minefield/3.0.2pre",
+    "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.0.10) Gecko/2009042316 Firefox/3.0.10",
+    "Mozilla/5.0 (Windows; U; Windows NT 6.0; en-GB; rv:1.9.0.11) Gecko/2009060215 Firefox/3.0.11 (.NET CLR 3.5.30729)",
+    "Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US; rv:1.9.1.6) Gecko/20091201 Firefox/3.5.6 GTB5",
+    "Mozilla/5.0 (Windows; U; Windows NT 5.1; tr; rv:1.9.2.8) Gecko/20100722 Firefox/3.6.8 ( .NET CLR 3.5.30729; .NET4.0E)",
+    "Mozilla/5.0 (Windows NT 6.1; rv:2.0.1) Gecko/20100101 Firefox/4.0.1",
+    "Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:2.0.1) Gecko/20100101 Firefox/4.0.1",
+    "Mozilla/5.0 (Windows NT 5.1; rv:5.0) Gecko/20100101 Firefox/5.0",
+    "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:6.0a2) Gecko/20110622 Firefox/6.0a2",
+    "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:7.0.1) Gecko/20100101 Firefox/7.0.1",
+    "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:2.0b4pre) Gecko/20100815 Minefield/4.0b4pre",
+    "Mozilla/4.0 (compatible; MSIE 5.5; Windows NT 5.0 )", ]
+
+    UserAgent = random.choice(user_agents)
+    return UserAgent
+
+# #################################################random ip(if need )
+# def getIp():
+#
+#     ip = [
+#     "http://202.159.118.50 80",
+#     "http://41.210.252.16 8080",
+#     "http://159.148.119.39 3128",
+#     "http://204.16.1.182 3128",
+#     "http://129.107.60.14 80",
+#     "http://200.65.129.2 80",
+#     "http://67.69.254.240 80",
+#     "http://193.37.152.206 3128",
+#     "http://169.235.24.133 3127",
+#     "http://200.204.154.29 6588",
+#     "http://200.174.85.195 3128",
+#     "http://67.69.254.248 80",
+#     "http://67.69.254.243 80",
+#     "http://152.101.118.253 8080",
+#     "http://189.112.246.145 8080",
+#     "http://79.148.249.246 8080",
+#     ]
+#
+#     IP = random.choice(ip)
+#     return IP
+
+#################################################get the companies page url 
+def getCompaniesPageUrl():
+
+
+    for i in range(2018, 2006, -1):
+
+        if i == 2018:
+            # for p in range(1, 10):
+
+            for p in range(10, 0, -1):
+                url = 'https://www.newsmax.com/archives/companies/6/' + str(i) + '/' + str(p) + '/'
+                try:
+                    url1 = companiesUrl(url)
+                    getContentOfCom1(url1)
+                except:
+                    return ""
+
+
+
+
+        else:
+
+            # for p in range(1, 13):
+            for p in range(12, 0, -1):
+                # for p in range(13, 1, -1):
+                url = 'https://www.newsmax.com/archives/companies/6/' + str(i) + '/' + str(p) + '/'
+                try:
+                    url1 = companiesUrl(url)
+                    getContentOfCom1(url1)
+                except:
+                    return ""
+
+
+#################################################################################getHTMLText
+def getHTMLText(url1):
+    try:
+
+
+            # agent='Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36'
+            agent=userAgent()
+            cookie='CMSPreferredCulture=en-US; promo_code=zhs3nmqq; AMCV_05B1470957C7F5EB7F000101%40AdobeOrg=T; _gcl_au=1.1.1146345835.1537856785; _ga=GA1.2.79711517.1537856785; _gid=GA1.2.312422580.1537856785; CookieConsent=-1; sc_prp20=Less%20than%201%20day; ASP.NET_SessionId=ek1lqw2swphydgpcxyazslrv; BIGipServernewsmax_2_farm_443_pool=672114880.47873.0000; AMCVS_05B1470957C7F5EB7F000101%40AdobeOrg=1; _sdsat_content: server=www.newsmax.com; sc_evr61=Repeat; s_cc=true; CMSCurrentTheme=Newsmax; NMSeg=FR,PR; sc_daysSinceLastVisit_s=Less%20than%201%20day; loadtime=nmx:home:index|7.64; AMCV_05B1470957C7F5EB7F000101%40AdobeOrg=102365995%7CMCIDTS%7C17801%7CMCMID%7C00079303136662577902122389947097983065%7CMCAAMLH-1538537968%7C11%7CMCAAMB-1538537968%7CRKhpRz8krg2tLO6pguXWp5olkAcUniQYPHaMWWgdJ3xzPWQmdj0y%7CMCOPTOUT-1537940368s%7CNONE%7CMCAID%7CNONE%7CvVersion%7C2.2.0; _dc_gtm_UA-31221-1=1; sc_previousPageName=nmx%3Aus%3Aarticle%3Asecond_kavanaugh_accuser_balks_at_senate_grilling%3A883432; s_ppvl=nmx%253Ahome%253Aindex%2C15%2C9%2C1090%2C1536%2C190%2C1536%2C864%2C1.25%2CP; s_ppv=nmx%253Aus%253Aarticle%253Asecond_kavanaugh_accuser_balks_at_senate_grilling%253A883432%2C4%2C4%2C190%2C1536%2C190%2C1536%2C864%2C1.25%2CP; sc_getNewRepeat=1537933170033-Repeat; sc_daysSinceLastVisit=1537933170034; s_sq=%5B%5BB%5D%5D'
+            refer='https://www.newsmax.com/us/brett-kavanaugh-sexual-misconduct-allegations-senate/2018/09/25/id/883432/'
+            headers={'User-Agent':agent,'Cookie':cookie,'Refer':refer}
+
+
+            r = requests.get(url1,headers,timeout = 30)
+            r.raise_for_status()
+            r.encoding = 'utf-8'
+            return r.text
+    except:
+         return ""
+#####################################################################################Get each specific address
+def companiesUrl(url):
+    try:
+        newsHtml = requests.get(url)
+        newsHtml.encoding = "utf-8"
+        soup = BeautifulSoup(newsHtml.text, "html.parser")
+        for hah in soup.select("h5.archiveH5"):
+            if len(hah.select('a'))>0:
+                hrefCom = hah.select('a')[0]['href']
+                totalHrefCom='https://www.newsmax.com/'+hrefCom
+                return totalHrefCom
+                #print(totalHrefCom)
+    except:
+        print("cannot open companies url")
+
+#####################################################################################Get all the content for each site
+# def getContentOfCom(url1):
+#
+#     html = getHTMLText(url1)
+#     # print(html)
+#     soup = BeautifulSoup(html, "html.parser")
+#     #title=soup.select("div#artPgHdLnWrapper > h1")
+#     #print(title)
+#     content=soup.select("div#mainArticleDiv > p")
+#
+#
+#     f = open('newa.txt', 'a')
+#     for con in content:
+#          if len(con)>0:
+#             print(con.get_text())
+#             realCon=con.encode('utf-8')
+#             #f = open('news.txt','a')
+#             f.write(str(realCon))
+
+
+
+        # f = open('news.txt', mode='wb')
+        # f.write(content.get_text())
+
+####get the news and use the title as the txtx file's name
+def getContentOfCom1(url1):
+
+        html = getHTMLText(url1)
+        # print(html)
+        soup = BeautifulSoup(html, "html.parser")
+        titlePr = soup.select("div#artPgHdLnWrapper > h1")
+
+        title = str(titlePr).replace('[<h1 class="article" itemprop="headline">', '')
+
+        title1 = str(title).replace('</h1>]', '')
+        title1 = str(title1).replace('?','')
+        title1=str(title1).replace('[','')
+        title1 = str(title1).replace(':', '')
+        title1 = str(title1).replace('/', '')
+        title1 = str(title1).replace('"', '')
+        title1 = str(title1).replace('<', '')
+        title1 = str(title1).replace('>', '')
+        title1 = str(title1).replace('[', '')
+        title1 = str(title1).replace('-', '')
+        title1 = str(title1).replace('_', '')
+        title2 = str(title1).replace('[', '')
+
+        # print(title1)
+
+        txtName = str(title2)
+
+        # f = open('Z:/news/' + txtName + '.txt', "a+")
+
+
+        f = open('C:/Users/haowei.song18/Desktop/haha/' + txtName + '.txt', "a+")
+
+        content = soup.select("div#mainArticleDiv > p")
+        # content=str(contentPr).replace('<p>', '')
+        # print(str(contentPr).replace('<p>', ''))
+
+        # f = open('ha.txt', 'a')
+        f.write("Title:" + str(title1))  ##input title
+        f.write(str('\n'))  ##换行  line feed
+        Ntime = soup.select("span.artPgDate ")
+        time1 = str(Ntime).replace('[<span class="artPgDate">', '')
+        time2 = str(time1).replace('</span>]', '')
+        f.write("Date:" + str(time2))
+        f.write(str('\n'))
+        for con in content:
+            if len(con) > 0:
+                con = str(con).replace('<p>', '')
+                con1 = str(con).replace('</p>', '')
+                print(con1)
+                realCon = con1
+
+                f.write(str(realCon))
+        f.close()
+if __name__=="__main__":
+    #getCompaniesUrl()
+    #test
+    #url='https://www.newsmax.com//finance/companies/anti-semitic-social-media-maps-jewtropolis/2018/08/30/id/879557/'
+    #companiesUrl(url)
+    #getContentOfCom()
+
+
+    getCompaniesPageUrl()
+    print("Ok, finish, perfect")
