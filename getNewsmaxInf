@@ -149,7 +149,7 @@ def companiesUrl(url):
         # f = open('news.txt', mode='wb')
         # f.write(content.get_text())
 
-####get the news and use the title as the txtx file's name
+####get the news and use the title as the txtx file's name ###is better than getContentOfCom(url1)
 def getContentOfCom1(url1):
 
         html = getHTMLText(url1)
