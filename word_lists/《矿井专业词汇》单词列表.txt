@@ -1,0 +1,197 @@
+shearer
+drum
+ramp
+bit
+cage
+skip
+plow
+mining machinery
+chain conveyor
+belt conveyor
+continuous miner
+gear
+powered support
+shield-type support
+bolt
+coal cutter
+drive sprocket
+sinding
+diffuser fan
+self-rescuer
+cable
+car
+shaft
+drift
+slope
+subshaft
+crosscut
+gob
+face
+interconnection
+panel
+level
+air shaft
+bleeder
+crop
+breakthrough
+working section
+mine opening
+headentry
+tailentry
+room
+supply main entry
+yard
+substation
+coalfield
+vice mine director of security
+mine director of manufacture
+mine director of elector mechaincal
+faulf
+methane
+roof
+coal seam
+coal-bearing strate
+immediate roof
+main roof
+conventional mining method
+continous mining method
+longwall mining
+surface mining
+advancing working
+retreating working
+unidirectional  removing
+bidirectional removing
+room-and-piller mining
+ventilation
+blasting
+haulage
+drainage
+loading
+backfill
+coal preparation plant
+Coke
+spontaneous combustion
+cross section
+rockbust
+coal height
+underground pressure
+abutment pressure
+faceline
+strata behavior
+barrier pillar
+floor heave
+overcast
+crossbar
+intake air
+air course
+web
+cantilever roof beam
+face advance
+gobline
+low coal
+in single pass
+main line system
+brattice
+blower regulator
+recovery
+full-mechanized (caving) mining face
+blasting mining face
+design
+design basis
+planning proposals
+design order
+planning prospects
+draft ,scheme
+comparison of draft
+draft amendment
+standard
+specification
+information drawing
+manufacturing process
+process flowchart
+feasibility study report
+stage of design
+technical design
+working drawing
+enlarged preliminary design
+conceptual engineering design
+preliminary design
+basic engineering,foundation design
+detail engineering,detail design
+design criteria
+selection of plant site
+design proposal
+additional engineering
+overall mine planning
+expansion
+design engineering
+purchase order
+scope work
+bidder
+quotation
+quote
+firm price
+present price
+broker
+offer
+enquiries in connection
+alternate I
+F.O.B factory
+F.O.B vessel
+additional charge
+parties
+assign,subcontract
+waiver
+guarantee
+expediting
+inspection
+acceptance
+packing
+delivery
+financial
+repayment
+spaghetti
+vendor
+evaluate
+estimate
+coordination
+schedule
+progress reporting
+capital cost,capital outlay
+cupboard
+expedite
+training
+market
+purchase
+equipment lists
+site visit
+investigate and study
+scientific research
+document
+conclusion
+level of mechanization
+recommendation
+equipment specification
+supervision
+craft supervision
+payroll
+communication
+advisory services
+test program
+installation
+miner
+examine
+routine
+enterprise
+maintenance
+operating cost
+depreciation
+budget
+completion test
+remark
+mine facilities
+contractor
+managing contractor
+commitment
+adviser
+technical adviser

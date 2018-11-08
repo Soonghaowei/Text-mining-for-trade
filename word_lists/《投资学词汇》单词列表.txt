@@ -1,0 +1,100 @@
+real assets
+financial assets
+balance sheet
+income statement
+accounting earnings
+book value
+current ratio
+quick ratio
+call option
+put option
+arbitrage
+basis
+basis risk
+common stock
+preferred stock
+bond
+par value
+corporate bonds
+callable bond
+put bond
+convertible bond
+business cycle
+call protection
+capital gains
+capital market
+cash delivery
+cash equivalents
+clearinghouse
+exchanges
+stock exchanges
+collateral
+cross holdings
+current account
+derivative asset
+derivative security
+diversifiable risk
+diversification
+efficient diversification
+Dow theory
+duration
+efficient frontier
+Eurodollars
+expected return
+face value
+factor model
+financial assets
+fiscal policy
+futures contract
+futures option
+futures price
+hedging
+index model
+index option
+inflation
+junk bond
+monetary policy
+money market
+mutual fund
+Nasdaq
+passive management
+passive portfolio
+passive strategy
+peak
+premium
+primitive security
+derivative security
+primary market
+secondary market
+principal
+profit margin
+public offering
+private placement
+random walk
+risk arbitrage
+risk-averse
+risk-neutral
+risk lover
+risk-free  asset
+risk-free  rate
+risk premium
+risk asset
+securitization
+security analysis
+security selection
+separation property
+hedge
+short  sale
+speculation
+spot rate
+stock selection
+stock split
+straddle
+time value
+third market
+treasury bill
+underwriting
+volatility risk
+warrant
+weekend effect
+yield curve

@@ -1,0 +1,149 @@
+flower
+amaryllis
+anemone
+anther
+apple
+apricot
+azalea
+balsam
+begonia
+Brazil
+cactus
+camellia
+canna
+cantury plant
+carnation
+Chinese enkianthus
+Chinese flowering crab-apple
+chrysanthemum
+cosmos
+crocus
+cyclamen
+daffodil
+dahlia
+daisy
+daphne
+datura
+dogwood
+epiphyllum
+freesia
+fringed iris
+fuchsia
+gardenia
+geranium
+gladiolus
+hawthorn
+hibiscus
+hyacinth
+hydrangea
+India canna
+iris
+jasmine
+lilac
+lily
+mangnolia
+mangnolia
+marguerite
+marigold
+morning glory
+narcissus
+nectar gland
+night-blooming cereus
+oleander
+orange
+orchid
+ovary
+pansy
+pear
+peony
+petal
+phalaenopsis
+pink
+pistil
+habit
+pollen
+Poppy
+quince
+redbud
+rhododendron
+rose
+sepal
+setose asparagus
+stalk
+stamen
+sunflower
+sweet pea
+touch-me-not (balsam)
+tulip
+violet
+Water hyacinth
+wisteria
+yucca
+trees
+pine
+cerdar
+larch
+juniper
+cone
+cypress
+bamboo
+box
+poplar
+cottonwood
+osier
+willow
+birch
+maple
+sequoia
+fir
+hemlock spruce
+spruce
+yew
+eucalytus
+locust
+wattle
+camphor tree
+rosewood
+ebony
+sandalwood
+satinwood
+linden
+rowan
+teak
+elm
+oak
+acorn
+sycamore
+ginkgo
+holly
+coco
+date
+hickory
+plane tree
+beech
+horse chestnut
+blackthorn
+baobab
+elder
+myrtle
+cycad
+oil palm
+treetop
+branch
+twig
+bough
+knot
+trunk
+leaf
+sprout
+sapling
+stump
+root
+root hair
+taproot
+bark
+resin
+pith
+cambium
+ring
+wood

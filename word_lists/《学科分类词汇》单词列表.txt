@@ -1,0 +1,52 @@
+Chinese
+English
+Japanese
+mathematics
+science
+gymnastics
+history
+algebra
+geometry
+geography
+biology
+chemistry
+unload
+physics
+physical geography
+literature
+sociology
+linguistics
+psycology
+philosophy
+engineering
+Mechanical engineering
+electronic engineering
+medicine
+social science
+agriculture
+astronomy
+economics
+politics
+comercial science
+unload
+anthropology
+languistics
+accounting
+law, jurisprdence
+banking
+metallurgy
+finance
+mass-communication
+journalism
+atomic energy
+civil engineering
+architecture
+chemical, engineering
+accounting and satisics
+business administration
+library
+diplomacy
+foreign language
+botany
+major
+minor

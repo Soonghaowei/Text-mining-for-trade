@@ -1,0 +1,331 @@
+tomato
+mango
+waxberry
+pineapple
+watermelon
+banana
+shaddock
+pomelo
+orange
+apple
+lemon
+cherry
+peach
+pear
+Chinese Date
+pitted date
+coconut
+strawberry
+blueberry
+blackberry
+grape
+sugar cane
+pawpaw
+papaya
+apricot
+nectarine
+persimmon
+pomegranate
+Jackfruit
+areca nut
+Bitter Orange
+kiwi fruit
+chinese gooseberry
+cumquat
+flat peach
+litchi
+greengage
+haw
+honey peach
+musk melon
+habit
+red bayberry
+longan
+crab apple
+Starfruit
+loquat
+tangerine
+wax-apple
+guava
+pumpkin
+okra
+bacon
+cushaw
+sweet corn
+beef
+pork
+mutton
+lamb
+chicken
+lettuce
+Chinese cabbage
+celery cabbage
+cabbage
+dim
+carrot
+leek
+Agaric
+pea
+potato
+cucumber
+balsam pear
+onion
+celery
+sweet potato
+mushroom
+olive
+spinach
+wax gourd
+lotus root
+laver
+eggplant
+caraway
+loquat
+green pepper
+garden bean
+fungus
+tendon
+fennel
+fennel oil
+carp
+needle mushroom
+lentil
+areca
+great burdock
+summer radish
+bamboo shoot
+mugwort
+mung bean
+green soy bean
+lean meat
+speck
+day lily
+bean sprout
+towel gourd
+peeled prawns
+yellow croaker
+lobster
+crayfish
+crab
+shrimp
+prawn
+squid
+sea cucumber
+scallop
+sea-ear
+abalone
+cockle
+oyster
+scale
+jellyfish
+turtle
+clam
+butterfish
+chub
+silver carp
+conch
+escargot
+sea sturgeon
+salted jelly fish
+kelp
+seaweed
+shark fin
+eel
+vinegar
+redeye
+soy
+salt
+iodized salt
+sugar
+soy sauce
+salad
+Hot Pepper
+red pepper
+salad oil
+seasoning
+sauce
+granulated sugar
+brown sugar
+rock sugar
+sesame
+sesame paste
+sesame oil
+curry
+ketchup
+horseradish
+shallot
+Spring onions
+ginger
+garlic
+cooking wine
+oyster sauce
+medlar
+aniseed
+yeast
+barm
+Yellow pepper
+pepper
+cinnamon
+butter
+vanilla
+flour
+onion
+sandwich
+wheat
+steak
+rice
+congee
+soup
+dumpling
+noodle
+pizza
+instant noodle
+sausage
+bread
+butter
+rape
+pickle
+steamed bread
+cake
+hamburger
+ham
+cheese
+wonton
+strong flour
+barley
+highland barley
+broomcorn
+kaoliang
+spring rolls
+taro
+yam
+shark fin
+daylily
+preserved eggs
+spring roll
+minced pie
+Brown rice
+corn
+stuffing
+appetizer
+flour
+oat
+sweet potato
+fillet
+bean jelly
+sticky rice
+bird's nest
+meat ball
+citrange
+dim sum
+starch
+egg tart
+pancake
+cashew nut
+fig
+hazel
+walnut
+preserved fruit
+raisin
+water chestnut
+red wine
+coffee mate
+white wine
+brandy
+sherry
+spacecraft
+sparkling water
+ice
+juice
+ice-lolly
+beer
+yoghurt
+vodka
+cocktail
+soy milk
+soybean milk
+kirin
+ale
+draft beer
+black beer
+barley-bree
+coffee
+mint
+cracker
+biscuit
+bonbon
+tea
+prune
+melon seed
+ice sucker
+ice cream
+preservative
+sundae
+pudding
+chocolate
+Cantonese cuisine
+roast suckling pig
+dim sum
+barbecued pork
+tart
+chicken wing
+bean milk
+wonton
+sponge cake
+layer cake
+spring roll
+fried rice noodles
+chow mein
+rice cake
+soup
+sea sturgeon
+pig's knuckle
+boiled salted duck
+preserved meat
+sausage
+meat diet
+meat broth
+local dish
+set meal
+curry rice
+fried rice
+plain rice
+crispy rice
+noodles with gravy
+plain noodle
+casserole
+bean curd
+dried turnip
+menu
+French cuisine
+today's special
+chef's special
+buffet
+fast food
+specialty
+continental cuisine
+aperitif
+dim sum
+baked potato
+mashed potato
+omelette
+pudding
+pastry
+kimchi
+crab meat
+prawn
+braised beef
+bacon
+poached egg
+fried egg
+sunny side up
+over easy
+over hard
+scramble eggs
+boiled egg
+stone fire pot
+sushi
+sashimi
+roast meat
+miso shiru
+sake

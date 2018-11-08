@@ -1,0 +1,358 @@
+acceptor
+acetate
+acetyl
+actin
+activation
+active site
+adenine
+adenosine
+adenosyl
+adenovirus
+adhering junctings
+adhesion
+adjacent
+adrena
+affinity
+agar
+agarose
+agency
+agent
+aggregate
+albumin
+allelc
+allele
+allosteric modification
+allosteric
+alzheimer’s disease
+amino
+acid
+aminopeptidase
+amphibian
+amphipathic
+amylase
+anaerobic
+analysis
+analyze
+anaphase
+anarogen
+anatomy
+anionic
+appropriate
+approximately
+artificial chromosome
+aspartic
+astrocyte
+asymmetric
+autocatalytic
+autophagy
+axon
+bacteria
+bacteriophage
+basal cell carcinoma
+base
+basement membrane
+bilayer
+binal
+binding
+blastocoele
+blastoderm
+blastomere
+blastula
+cancerous
+capsid
+carbohydrate
+carbonate
+carboxy
+carboxylation
+carboxypeptidase
+carcinogen
+carcinoma
+cardiovascular
+cell secretion
+centrifuge
+cholesterol
+chromatid
+chromatin
+chromatography
+cis-acting element
+cistron
+clathrin-coated vesicle
+clone
+coelom
+coenzyme
+coherent
+competitive inhibitor
+complementary
+covalence
+covalent bond
+covalent
+cross-linked
+culture
+cushion
+cyclin
+cytochrome
+cytomembrane systeme
+cytoplasm
+cytosine
+cytoskeleton
+cytosol
+degrade
+deletion
+denaturation
+dendrite
+deoxyribonucleic acid
+deoxyribonucleic
+deoxyribose
+dextran
+dialysis
+differential centrifugation
+differentiation
+diffusion
+dilute
+dimensional
+dimer
+dodecyl
+donor
+duplicate
+dynamic
+dyneins
+dysentery
+edoplasmic reticulum
+elaborate
+electrophoresis
+embryo
+embryogenesis
+embryology
+embryonic
+encode
+endocrine
+endocytic
+endocytosis
+endoderm
+endomembrane systems
+endoplasmic
+endoplasmic reticulum
+envelope
+enzyme
+epinephrine
+epithelial
+epithelium
+er retention signal
+estrogen
+ethical
+eukaryotic
+evolution
+exon  exotron
+extracellular
+extract
+ferredoxin
+fibroblast
+filtration
+frequency
+fruit fly
+function
+fungi
+fusion
+galactose
+galactosidase
+galactoside
+genus
+germ layer
+golgi body
+golgi complex
+gonad
+gonadotropin
+guanine
+haploid
+hereditary
+hereditary
+heritable
+heritable
+heterozygote
+heterozygous
+histone
+homeostasis
+homo
+homogenizer
+homologous
+homozygote
+homozygous
+hormone
+hydrophilic
+hydrophobic
+hypertonic
+hypotonic
+identical
+immune
+immunoglobulin
+immunology
+insulin
+integrate
+integrity
+intermediate
+internal
+intracellular
+intricate
+intrinsic
+intron
+isolation
+karyotype
+kidney
+kinesins
+kinesis
+lactose
+lamina
+lateral
+lesion
+ligases
+lipoprotein
+luciferase
+lumen
+luminescence
+lymph
+lympocyte
+lysosome
+lysozyme
+lytic
+macrophage
+magnesium
+malignant
+marrow
+Matrix
+mechanism
+membrane trafficking
+metabolism
+metaphase
+microfilament
+microglia
+micron
+microorganism
+microplast
+donkey
+microtube
+microtubule
+mitosis
+mitotic
+modification
+monomer
+nanometer
+natural selection
+nerve cord
+nerve
+nervous
+neurilemma
+neuroglia
+neuroglial
+neuron
+neurotransmitter
+neutral
+neutralize
+nickel
+nicotinamide
+nitrate
+nitric
+nitrogen
+noncoding
+nuclear envelope
+nucleic
+nucleolus
+nucleoplasm
+nucleoprotein
+nucleosome
+nucleotide
+nucleus
+obesity
+oligomer
+oligosaccharide
+oncogene
+operon
+optimal
+organelle
+organism
+organize
+organogenesis
+ovary
+paternal
+phagocytosis
+phagocytize
+pivotal
+prolong
+prosthetic
+protease
+regulator gene
+resin
+ribonucleic
+ribose
+ribosome
+rotational
+sarcoma
+semiconserevative
+sickle-cell
+solubility
+soluble
+somatic
+sonication
+spiral
+splice
+spontaneous
+steroid
+stroma
+structural gene
+supercoil
+supernatant
+susceptible
+synapse
+synergistic
+telomere
+termination
+terminator
+thrombin
+thromboplastin
+thylakoid
+thymine
+thymus
+thyroid
+thyroxine
+tick
+tight junctions
+topography
+torsion
+toxicity
+toxin
+trace element
+tracer
+tranposon
+trans-acting factor
+transacetylase
+transcript
+transcription
+transfer rna
+transfer
+transform
+transformation
+translation
+translocation
+translocators
+transmission
+trigger
+triglyceride
+tumor
+tumorigenicity
+ultracentrifuge
+ultraviolet
+vaccine
+viruses
+zinc
+zygote
+inoculating loop
+syringe filters
+cling film
+beaker
+volumetric flask
+graduated cylinder
+funnel
+weighing paper
+magnetic stirring
+homogenixer
+shaker
+spectrophotometer

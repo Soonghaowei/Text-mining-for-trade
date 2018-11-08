@@ -1,0 +1,150 @@
+farmland
+brick kiln
+teagarden
+mulberry field
+cultivating farming
+windbreak (of trees)
+chicken ranch
+chicken coop
+grocery
+general store
+orchard
+deinsectization
+hot houses
+manure pit
+vegetable plot (or field)
+conservatories
+sowing seeds
+farmer
+ridge
+field ditch
+fertilizing
+fixing farm output quotas for each household
+tractor station
+savings agency
+market
+piggery
+pigsty
+horse ranch
+barnyard manure
+grain supply center
+granary
+storage
+yard
+sunning ground
+threshing
+grain rendering
+duck ranch
+duck coop
+grain field
+grain stack
+gleaning
+convenience
+main irrigation channel
+tending ducks
+wharf
+cement boat
+sluice
+irrigation
+paddy field
+rice transplanting
+rice seedlings
+rice field
+pulling up seedlings
+carrying water
+hoeing
+irrigation station
+spraying
+intertilling
+footpaths between fields
+farmhouse
+farm work
+reclamation
+lever
+big hoe
+well sinking
+headframe
+top block
+winch
+seed selection
+manure basket
+manure collection
+manure spade
+manure collection
+compost
+water-logged compost
+river silt
+grass
+fertilizer
+mixing farm chemicals
+agricultural chemicals
+plastic gloves
+mask
+threshing
+wooden winnowing shovel
+rice milling
+stone roller
+grinding flour
+millstone
+raising rice seedlings
+rice seedling shed
+vinyl sheet
+thinning
+seedbed
+artificial pollination
+pollen collector
+pollenator
+picking tea leaves
+tea basket
+sun-curing tobacco
+folding tobacco rack
+fungus cultivation
+log
+tree fungus
+sericulture
+silkworm basket
+silkworm basket stand
+feeding pigs
+trough
+apiculture
+hive
+frame
+honey extractor
+chopping fodder
+fodder choppor
+mat weaving
+willow twig
+fluffing cotton
+cotton fluffer
+pasture
+enclosed pasture
+enclosing wall
+grazing
+meadow
+herdsman
+flock of sheep
+pasture
+shepherd
+lamb
+sheepfold
+shearing
+wool
+woolcomb
+stable
+manger
+pitch-fork
+trough
+hexastyle stable
+veterinary surgeon
+hunting-crop
+lasso rod
+stirrup
+bridle
+horseshoe
+dairy farm
+cowshed
+fence
+milking
+milk cow
+milking machine
+milk pail

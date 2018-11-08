@@ -1,0 +1,80 @@
+ceiling
+curtain
+carpet
+table
+desk
+lighting
+dining room
+bedroom
+living room
+bathroom
+bathtub
+shower
+restroom
+chair
+armchair
+chair
+love seat
+sofa
+ottoman
+stool
+bench
+easy chair
+lounge chair,
+stacking chair
+upholstery
+tanned leather
+synthetic leather
+covering
+spindle
+splat
+seat
+stretcher
+leg
+radish
+lastly
+bookshelf
+whatnot
+sideboard
+material
+wood
+fine
+bentwood
+kyln drying
+natural drying
+grade timber
+grain
+Japanese oak
+birch
+pine
+ceder
+fir
+maple
+beech
+chestnut
+ash
+cherrytree
+teak
+mahogany
+hickory
+gloss
+undercoat
+surface
+water-based
+oil-based
+water-soluble
+formaldehyde
+orqanic glue
+urea resin
+acetic acid resin
+resin
+antique hinge
+concealed hinge
+pivot hinge
+stay
+caster
+table bases
+drawer rail
+shelf support
+screw
+trade fair

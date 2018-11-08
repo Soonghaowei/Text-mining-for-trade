@@ -1,0 +1,360 @@
+annuity
+asking price
+assess
+back
+bad loan
+bailout
+balloon
+barometer
+basis point
+bear markets
+blue-chip
+bond
+bourse
+bull markets
+bullish
+contagion
+correction
+coupon rate
+dead loan
+delist
+discount
+discount rate
+down
+equity
+escrow
+face value
+fluctuation
+fluctuate
+fraud
+fraudulence
+fraudulent
+good
+holdings
+imburse
+initial share
+junk bond
+junk bonds
+lien
+liquidate
+list
+long position
+margin
+mutual fund
+new issue
+nosedive
+obligation
+outstanding
+par value
+plummet
+policy
+pool
+portfolio
+preferred stock
+premium
+premium
+proceeds
+rally
+rebound
+recoup
+recovery
+red-chip share
+refund
+rescue package
+resilience
+resilient
+risk
+run
+securities
+shore up
+slash
+slump
+smi index
+solvent
+speculate
+speculation
+speculator
+term
+arbitrage
+efficient frontier
+high yield
+fund manager
+prospectus
+benchmarks
+passive management
+offshore fund
+maximum drawdown
+market timing
+managed futures
+short position
+downside deviation
+due diligence
+bid price
+bid-offer spread
+traditional fund
+bond fund
+unit
+unit trust
+offer price
+incentive fees
+hedge
+hedge fund
+total return
+tandard deviation
+black-scholes
+macro funds
+global fund
+absolute return
+authorised funds
+put option
+warrant fund
+call option
+stock lending
+beta
+asset allocation
+net asset value-nav
+redemption
+hurdle rateh
+income fund
+mutual fund
+pension plan
+diversification
+prime broker
+alternative investment
+market neutral
+reinvestment
+merger arbitrage
+regional fund
+umbrella fund
+limited liability
+value
+balanced funds
+time horizon
+portfolio
+investment adviser
+gearing
+leverage ratio
+daily valuation
+annual return
+contribution
+short selling
+volatility
+share
+dividened distributions
+equity fund
+performance fees
+alpha
+unauthorised fund
+trustee
+correlation
+offering,list
+shanghai exchange
+pension fund
+mutual fund
+saving account
+equity market
+mongey-loser
+inventory
+stakeholder
+transparency
+efficient market
+intellectual property
+opportunistic practice
+bribery
+entrepreneur
+cook the book
+regulatory system
+audit
+accounting firm
+great depression
+portfolio
+money-market
+capitual-market
+volatility
+diversification
+commodity
+real estate
+option
+call option
+put option
+merger
+dollar standard
+flight
+budget
+deficit
+bad debt
+output
+macroeconomic
+fiscal stimulus
+a store of value
+transaction currency
+forward exchange
+intervention currency
+treasury bond
+currnt-account
+pickup in rice
+federal reserve
+inflation
+deflation
+tighter credit
+monetary policy
+foreigh exchange
+spot transaction
+forward transaction
+swap transaction
+buying rate
+selling rate
+spread
+contract
+at par
+premium
+discount
+dividend
+domestic currency
+floating rate
+parent company
+credit swap
+venture capital
+virtual value
+physical good
+abstract good
+book value
+physical capital
+job machine
+transfer price
+consolidation
+leveraged
+acquiring company
+bad loan
+debt to equity
+go public
+hedge against
+housing mortgage
+holdings
+holding company
+initial offerings
+innovative business
+intellectual capital
+inter-bank lending
+internet customer
+joint-stock
+mall rat
+moods
+net potato
+non-store seling
+offering
+online-banking
+online-finance
+online client
+paper profit
+physical assets
+pyramid sale
+recapitalize
+regulate
+sell off
+smart card
+slash prices
+spare capacity
+strong growth
+switch trade
+take…public
+venture-capital
+virtual bank
+wire transfer
+appeal panel
+applicant
+application
+appointed day
+arbitrator
+articles
+asset management
+associate
+agents
+agreement
+appeal panel
+applicant
+application
+appointed day
+approved person
+arbitration panel
+arbitrator
+articles
+asset management
+associate
+associated corporation
+associated entity
+associated person
+authorized person
+banker
+banker‘s book
+basic amount
+basic information
+blanket assurance
+body
+bond broker
+bond dealer
+books
+borrow
+broadcast
+broadcaster
+broker
+business day
+calculation
+call
+capital account
+chairman
+charge
+chief executive
+claimant
+claims rules
+clearing house
+clearing participant
+clerk
+client
+client assets
+client collateral
+client contract
+client money
+client securities
+closing date
+codes
+collateral
+collateralized warrants
+commission
+commission
+common client
+companies inspector
+company
+compensation
+compensation fund
+complaints officer
+completion
+conditional offer
+conduct
+constitution
+contract multiplier
+controller
+controlling entity
+corporation
+court
+credit union
+custodian
+dealing
+debenture
+debt securities
+defalcation
+default
+default proceedings
+default rules
+defaulter
+deliver
+depositary receipt
+deputy chairman
+derivative contract
+derivatives
+digital signature
+director
+dispute
+disqualification order
+document
+duty of disclosure

@@ -1,0 +1,286 @@
+football
+FIFA World Cup Competition
+Women's World Cup
+World Cup Finals
+Jules Rimet Cup
+five-a-side
+seven-a-side
+soccer violence
+footballplayer
+football team
+field player
+back line
+rear defender
+left back
+right back
+link line
+half back
+wing half
+left half
+right half
+center half
+twin center halves
+free back
+sweeper
+stopper
+deep-lying halfback
+forward line
+forward
+twin forwards
+spearhead forward
+winger
+left wing
+right wing
+inside
+inside left
+inside right
+withdrawn striker
+center forward
+double center forwards
+withdrawn  center forward
+striker
+midfielder
+attacking midfielder
+double attacking midfielders
+defending midfielder
+double defending midfielders
+key player
+Man of Match
+left-footed
+right-footed
+double-footed
+ball hawk
+ball watcher
+referee
+linesman
+first half
+second half
+kick off
+official time
+stoppage  time
+extra period
+sudden death
+golden goal
+silver goal
+penalty shootout
+outside
+throw-in
+goal  kick
+corner
+win a corner
+free kick
+award a free kick
+direct free kick
+indirect free kick
+placekick
+placekicker
+penal offense
+personal foul
+technical foul
+intentional foul
+offside
+onside
+flag
+charging
+charging from behind
+legal  charge
+blocker
+body check
+holding
+pushing
+striking
+little trick
+dangerous play
+foot over
+handball
+hacking
+hacker
+tripping
+tackle from behind
+late tackle
+fake a fall
+violent conduct
+delay  the game
+excessive possession of the ball
+warning
+yellow card
+red card
+evict
+suspend for a game
+play shorthanded
+man down
+power play
+penalty  kick
+take the kick
+convert a penalty kick
+miss a penalty kick
+kick
+kicker
+gain possession of the ball
+lose possession of the ball
+miskick
+kick out
+sky
+ball-control
+ball possession percentage
+trap
+thigh trap
+chest
+stop volley
+kill a ball
+volley
+half volley
+punt
+flick the ball
+sweeping kick
+juggle
+step over the ball
+curved
+inswinger
+outswinger
+running kick
+kick and rush
+off-the-ball running
+turnaround kick
+instep kick
+flick kick
+toe kick
+kick with the inside of foot
+heel kick
+pass
+first-time pass
+spot  pass
+long pass
+short  pass
+triangular  pass
+short game
+short triangular passing
+deep pass
+flank pass
+center
+cross pass
+square pass
+diagonal pass
+high  pass
+ground  pass
+forward pass
+steep forward pass
+pass back
+back-heel
+through pass
+wall pass
+push pass
+flick pass
+trick pass
+brisk pass
+lead pass
+setup pass
+receive  a pass
+fumble
+dribble
+dribbler
+beat
+excessive dribbling
+head
+flying header
+head sideward
+good in the air
+block
+intercept
+tackle
+side tackle
+sliding  tackle
+scything tackle
+tackle through the ball
+ride a tackle
+fifty-fifty ball
+scramble
+shoot
+shooter
+find the net
+make  a goal
+scoring opportunity
+goalgetter
+assisted goal
+hat-trick
+equalizer
+shots on goal
+sitter
+shooting average
+mishit
+high shot
+deflect
+goal disallowed
+close-range shot
+long shot
+gate-crashing
+snap shot
+hard shot
+tip-in
+pivot shot
+grazing shot
+first-time shot
+second-touch shot
+sharp-angled shot
+slot
+sliding shot
+volley shot
+scissors shot
+head  in a goal
+lob  shot
+free shot
+banana shot
+own  goal
+goal hunger
+goal celebration
+top right-hand corner of the net
+bottom right-hand corner of the net
+top left-hand corner of the net
+bottom left-hand corner of the net
+goalkeeping
+save
+finger-tip save
+diving save
+parry
+fist  the ball
+smother
+shut off
+come out
+unsighted
+fast break
+switch from defense to attack
+fast-switching attack
+break
+thrust down the middle
+solo drive
+split the defense
+disorganize the defense
+spread the defense
+frontal attack
+flank attack
+attack on the left wing
+attack on the right wing
+sweeping attack
+assist
+weave through
+cut in
+drive down the sideline
+deep
+pincers movement
+evasive movement
+turn a defender
+sidestep
+cover a position
+run off the ball
+positional sense
+work-rate
+tight  defense
+blanket defense
+mark up
+retreat
+funnel back
+clear
+close off
+defensive wallde
+set  up a wall
+double-team

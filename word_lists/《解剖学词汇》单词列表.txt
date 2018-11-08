@@ -1,0 +1,191 @@
+internal capsule
+kidney
+lingual
+sacral plexus
+sympathetic
+brachiocephalic trunk
+brain
+heart
+lumbar vertebra
+lung
+occipital lobe
+patella
+penis
+peritoneum
+reticular formation
+sclera
+sour
+superior colliculus
+thoracic vertebra
+tibia
+articular capsule
+carpus
+external ear
+facial
+hip bone
+inguinal ligament
+lateral ventricle
+locus ceruleus
+lymph node
+lymphatic system
+nervous system
+nucleus ambiguous
+orbita
+pelvis
+pons
+spinothalamic tract
+sternum
+submandibular gland
+substantia nigra
+anatomy
+duodenum
+internal carotid
+intervertebral disc
+nucleus proprius cornu posterior
+occipital bone
+palate
+postcentral gyrus
+pubic symphysis
+pyramidal tract
+sensory neuron
+telencephalon
+aorta
+biceps brachii
+capillary
+cardiac apex
+frontal bone
+ganglion
+interatrial septum
+lymphatic trunk
+pleura
+pubis
+red nucleus
+small intestine
+cartilage
+dura mater
+motor neuron
+pia mater
+posterior funiculus
+talocrural (ankle) joint
+thoracic duct
+tibial
+atrioventricular bundle
+atrium
+axillary
+basilic
+bronchus
+central nervous system
+gall bladder
+gray substance
+interventricular septum
+large intestine
+lip
+liver
+lumbar plexus
+mamma (breast)
+mandible
+medial lemniscus
+nasal septum
+neuron
+nucleus
+parietal bone
+parietal lobe
+pharynx
+posterior horn
+precentral gyrus
+pylorus
+radius
+sacrum
+sagittal plane
+scapula
+skeleton
+spermatic cord
+sphenoid bone
+spleen
+subarachnoid space
+synapse
+temporal lobe
+basal nuclei
+bone
+brachial plexus
+central gray substance
+fasciculus gracilis
+femoral
+fibula
+hippocampus
+ilium
+ligament
+maxilla
+mesentery
+nasal cavity
+ovary
+peripheral nervous system
+pupil
+sense organ
+accessory
+brain stem
+caecum
+diencephalon
+larynx
+lateral funiculus
+nerve
+nucleus posteromarginalis
+oesophagus
+parasympathetic
+prostate
+retina
+scrotum
+temporal bone
+thalamus
+anatomy
+anterior horn
+anus
+arachnoid
+associate neuron
+atrioventricular node
+ductus deferens
+eyeball
+fascia
+femoral
+femur
+greater omentum
+humerus
+inferior colliculus
+inferior vena cava
+insula
+iris
+jejunum
+lesser omentum
+anterior cerebral
+ischium
+joint cavity
+laterior horn
+lymph vessel
+muscle
+perineum
+sternocleidomastoid
+superior vena cava
+anal canal
+artery
+auditory tube
+axillary
+carpal canal
+diaphragm
+Edinger Westphal nucleus
+endocrine gland
+fasciculus cuneatus
+frontal lobe
+genital organs
+hypothalamus
+ileocaecal valve
+radial
+spinal cord
+tendo calcaneus
+tongue
+angiology
+auricle
+cardiac orifice
+lens
+neuroglia
+nucleus solitarius
+thyroid gland

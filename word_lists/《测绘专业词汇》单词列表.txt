@@ -1,0 +1,122 @@
+Abbe comparator principle
+Hadamard transformation
+setting accuracy
+reef
+target road engineering survey
+semiconductor laser
+semidiurnal tidal harbor
+halftone
+saturation
+method by hour angle of Polaris
+Bessel formula for solution of geodetic problem
+Bessel ellipsoid
+Bayesian classification
+passive remote sensing
+prime meridian
+comparative cartography
+scale
+ratio scaling
+proportional error
+ratio transformation
+ratio enhancement
+closing error
+closed traverse
+closed leveling line
+mean square error of side length
+linear intersection
+triangulateration
+linear-angular intersection
+triangulateration network
+edge detection
+edge enhancement
+compilation
+compiled original
+varioscale projection
+affine plotting
+variomat
+control network for deformation observation
+indicatrix ellipse
+nominal accuracy
+rod
+correction for skew normals
+survey for marking of boundary
+standard deviation
+Gruber point
+standard parallel
+post glacial rebound
+Potsdam gravimetric system
+zone plate
+compensation of undulation
+spectrometer
+spectrum cluster
+spectrum feature space
+spectrum character curve
+beam angle
+wave beam angle
+berth
+compensator
+compensating error of compensator
+Bouguer correction
+Bouguer anomaly
+Bruns formula
+Bjerhammar problem
+striping and mining engineering profile
+synthetic plan of striping and mining
+stope survey
+mining engineering plan
+survey in mining panel
+connection survey in mining panel
+sampling
+sampling interval
+color coding
+color transformation
+Color reproduction
+color sensitive material
+holing through survey
+inertial surveying system ISS
+inertial coordinate system
+connection survey
+reversal points method
+gyrophic EDM traverse
+gyro azimuth
+gyro theodolite gyroscopic theodolite
+gyrostatic orientation survey
+map of mineral deposits
+mining yard plan
+stope survey
+mining engineering plan
+survey in mining panel
+connection survey in mining panel
+shaft bottom plan
+surface-underground contrast plan
+shaft prospecting engineering survey
+topographic map of mining area
+setting-out of cross line through shaft center
+underground cavity survey
+control survey of mining area
+mine survey
+exchanging document of mining survey
+mining map
+mine surveying
+mining theodolite
+mineral deposits geometry
+geometrisation of ore body
+height traverse
+elevation point
+height datum
+building engineering survey
+building axis survey
+Adit prospecting engineering survey
+tilt observation
+tilt displacement
+clinometer clinometerontrol survey
+vertical control survey
+vertical control point
+vertical control network
+height system
+height anomaly
+mean square error of height
+combined adjustment
+connection triangle method
+location of pier
+bridge survey

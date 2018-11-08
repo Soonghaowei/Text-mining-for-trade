@@ -1,0 +1,333 @@
+fishery
+mariculture
+tiger shrimp
+mud crab
+cray fish
+clam
+snail
+oyster
+bivalve
+gastropod
+sea star
+sea urchin
+kelp
+bass
+large mouth bass
+Founder
+grouper
+abalone
+carp
+grass carp
+sapphire
+bighead carp
+chub
+catfish
+tilapia
+sturgen
+tortoise
+turtle
+softshell turtle
+plankton
+phytoplankton
+zooplankton
+diatom
+dinoflagellate
+rotifer
+artemia
+copepod
+cladoceran
+nauplii
+bacterium
+vibrosis
+fungi
+virus
+parasite
+vitamin
+protein
+lipid
+Aquaculture
+genetics
+genomics
+teleosts
+shellfish
+shrimp
+physiologic
+mechanisms
+maturity
+bodyweight
+dimorphism
+hormone
+disulfide bonds
+mediate
+receptor
+reproduction
+immunity
+endocrine
+promotion
+clone
+signal transduction
+transformation
+transfection
+infection
+characterize
+prior
+pool
+photoperiod
+water temperature
+egg
+sperm
+semen
+female
+male
+fertilization
+volume
+hatch
+gentle aeration
+larvae
+triplicate
+dose
+gonad
+ethanol
+sex
+blood
+brain
+eye
+gill
+kidney
+intestine
+liver
+muscle
+pituitary
+skin
+spleen
+stomach
+donkey
+aliquot
+activate
+digestion
+protocol
+primer
+polymerase
+reverse transcription
+sequence
+fragment
+amplification
+template
+cycle
+intron
+exon
+vertebrate
+kit
+instruction
+agarose gel
+band?
+propagate
+amino acid
+alignment
+phylogenetic trees
+marker
+quantitative
+stage
+procedure
+software
+concentration?
+motility
+encoding region
+signal
+residue
+flounder
+common carp
+grass carp
+tissue
+population
+sex ratio
+negative
+positive
+control
+grow
+production
+molecular
+stock
+superfemale
+progeny
+feeding
+manipulation
+environment
+study
+species
+catfish
+microsatellite
+elucidate
+further investigations
+significantly
+spawn
+expression
+up-regulate
+fold
+gynogenesis
+homozygosity
+meiotic
+irradiate
+heterologous
+cold shock
+diploid
+morphology
+homogamete
+marine
+flatfish
+Coastal areas
+adult
+individual
+investment
+chromosome
+approach
+monosexual
+induce
+mitogynogenesis
+homologous
+development
+paternal
+offspring
+nowadays
+cryopreserve
+technique
+practical
+feasible
+neomal
+theoretical
+genetic diversity
+sex control
+lab
+sex differentiation
+heterozygosity
+recombination
+locus
+additionally
+increment
+cultivated population
+base pairs
+feasibility
+parameter
+survival rate
+gynogenetic population
+thaw
+fisheries
+trial
+experiment
+storage
+liquid nitrogen
+waterbath
+appropriate
+condition
+haploid
+diploid
+hybrid
+treatment
+incubator
+percentage
+embryo
+fertilization rate
+survival rate
+data
+batch
+randomly
+sample
+classic
+mixture
+enzyme
+ligation
+restriction
+dilute
+pre-amplification
+automatic
+denaturation
+anneal
+elongation
+polyacrylamide gel
+silver staining
+molecular weight
+allele
+index
+initiation
+duration
+putative
+polymorphism
+linkage disequilibrium
+artificial
+diploidization
+optimization
+proportion
+sex reversal
+crossover
+incorporation
+eel
+summary
+abstract
+discussion
+references
+result
+title
+manuscript
+revise
+review
+funding
+genetic sexing
+acknowledgments
+mechanism
+article
+foundation
+methylation
+aromatase
+promoter
+androgen
+estrogen
+masculinization
+inverse relationship
+suppress
+sex steroid
+hypothesize
+pattern
+pathway
+epigenetic
+nuclear
+transcription factors
+biosynthesis
+mutual
+dinucleotides
+overall
+frequencies
+phenotype
+genotype
+housekeeping gene
+exogenous
+rear
+culture
+stimulate
+block
+bioinformatic
+putative
+co-transfection
+similarity
+development
+demethylation
+process
+sex differentiation
+identify
+influence
+consistent
+nutrition
+disease
+ingredient
+body size
+polygenic
+monosex populations
+determine
+match
+yearly
+migration
+discern
+hypermethylate
+soda
+conserved
+threshold
+scheme

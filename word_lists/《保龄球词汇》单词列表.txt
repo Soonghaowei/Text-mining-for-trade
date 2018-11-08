@@ -1,0 +1,57 @@
+strike
+double
+triple
+spare
+error
+split
+dead ball
+foul
+slow bowling
+score sheet
+one game
+one frame
+one block
+high game
+average
+impact points
+delivery
+pushaway
+follow through
+downswing
+backswing
+singles
+doubles
+trios
+all events
+master semifinals
+master grandfinals
+match play
+strike
+extra players
+pacer
+appeal
+protests
+smoking
+drinking
+medal presentation
+tournament director
+technical delegate
+technical committee
+tournament committee
+jury of appeal
+bowling equipment
+lane
+approach
+foul line
+gutter
+molding
+pin
+pin deck
+pin spots
+tail plank
+klck-back
+pit
+rear cushion
+balance
+hardness
+durometer

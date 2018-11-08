@@ -1,0 +1,380 @@
+abbreviated code
+abbreviated dialing
+aberration
+abnormal glow discharge
+abnormal reflections
+abrasion
+abrasive
+abrasive dust
+abrasive jet machining
+abrasive jet trimming
+abrasive paste
+abrasive trimming
+abrupt degradation
+abrupt heterojunction
+abrupt junction
+absolute threshold of luminance
+absorbed power
+absorber
+absorbing capacity
+absorbing circuit
+absorbing layer
+absorbing medium
+absorbing transition
+absorption
+absorption band
+absorption length
+absorption line
+absorption loss
+absorption measurement
+absorption modulation
+absorption point
+absorption resistance
+absorption thickness
+absorptivity
+abutment joint
+ac cut quartz ac
+accelerated aging
+accelerated particle
+accelerated test
+accelerating anode
+accelerating cycle
+accelerating electrode
+accelerating grid
+accelerating period
+accelerating slit
+accelerating tube
+accelerating wave
+acceleration of charged particles
+acceleration space
+acceleration voltage
+accentuation
+acceptable contrast ratio
+acceptor
+acceptor atom
+acceptor center
+acceptor density
+acceptor impurity
+acceptor level
+acceptor type semiconductor
+access code
+access method
+gene
+accommodation coefficient
+accumulation layer
+accuracy
+accuracy in reproduction
+accurate positioning
+ace
+achromatc region
+achromatic lens
+achromatic threshold
+acicular crystal
+acid etch
+acorn tube
+acoustic absorptivity
+acoustic filter
+acoustic frequency
+Acoustic image
+acoustic impedance
+acoustic labyrinth
+acoustic manipulated recorder
+acoustic surface waves
+acoustic transducer
+acoustic treatment
+acoustic wave
+acoustic wave oscillator
+acoustical delay line
+acoustical feedback
+acoustical holography
+acoustical image
+acoustics
+acoustoelectric transducer
+acoustooptical deflector
+acoustooptical interaction
+acoustooptical modulator
+acoustooptical phenomenon
+acoustooptical q switch
+acquisition
+acquisition and tracking radar
+acquisition probability
+action radius
+activated cathode
+activated molecule
+activation
+activation energy
+activator
+active area
+active component
+active counter measures
+active dust
+active element
+active element group
+active fiber
+active filter
+active guidance
+active homing guidance
+active jamming
+active laser element
+active laser substance
+active liquid
+active mode locking
+active parasitics
+active q switching
+active redundancy
+active repeater
+active return loss
+active satellite repeater
+active substrate
+active substrate trimming
+actuator
+acuity
+adaptability equalizer
+adaptation
+adapter
+adapter coupling
+adaptive correlator
+adaptive delta modulation
+adaptive receiver
+adatom
+adc
+adcock antenna
+adcock direction finder
+add ons
+added component
+adder
+additive color mixture
+additive color synthesis
+additive color system
+additive mixing
+additive mixing of primaries
+additive primaires
+additive printed circuit technique
+additive process
+addressing system
+adherence
+adhesion
+adhesion strength
+adhesive
+adhesive coating
+adhesive die attachment
+adhesive sealing
+adhesive tape
+adjacent audio carrier
+adjacent channel
+adjacent channel attenuation
+adjacent channel interference
+adjacent channel rejector
+adjacent channel selectivity
+adjacent lines
+adjacent picture carrier
+adjacent picture carrier spacing
+adjacent picture carrier trap
+adjustable attenuator
+adjustable short
+adjustable threshold mos
+adjustment
+admittance
+admittance matrix
+admixture
+adsorbate
+adsorbent
+adsorption
+adsorption layer
+adulterated semiconductor material
+advance angle
+advanced customized ecl
+advanced low power schottky ttl
+advanced polysilicon self aligned process
+advanced schottky transistor logic
+advanced schottky ttl
+aeg
+aerial
+aerial array
+aerial attenuator
+aerial cable
+aerial capacity
+aerial choke
+aerial circuit
+aerial coupling
+aerial coupling coil
+aerial current
+aerial efficiency
+aerial excitation
+aerial feed
+aerial feeder
+aerial impedance
+aerial inductance
+aerial lead in
+aerial lens
+aerial loss
+aerial noise
+aerial power
+aerial radiation resistance
+aerial reactance
+aerial resistance
+aerial system
+aerial terminal
+aerial tower
+aerial tuning capacitor
+aerial tuning coil
+aerial tuning condenser
+aeroelectronic
+aeroelectronics
+aerogram
+aeronautical station
+aeroplane antenna
+aeroplane flutter
+aes
+af
+affinity
+after acceleration
+afterglow
+afterimage
+aftertreatment
+ageing
+ageing condition
+aggregate
+aggregation
+aging
+ai
+aid
+aided tracking
+aim
+aimic
+air bearing stage
+air clearance
+air cooled laser
+air ground communication
+air isolation
+air isolation integrated circuit
+air isolation monolithic ic
+air isolation process
+air leak
+air oxide isolation
+air position indicator
+air purge
+air to surface vessel radar
+air track
+airborne beacon
+airborne contamination
+airborne radar
+airborne television receiver
+aircraft antenna
+aircraft interception radar
+aircraft station
+airgap
+airport beacon
+airport danger beacon
+airport hazard beacon
+airport traffic control
+airtight joint
+ajt
+alarm signal
+albedo
+albedo measurement
+ald
+alford loop antenna
+alg
+algorithm
+aligner
+alignment
+alignment accuracy
+alignment error
+alignment laser
+alignment machine
+alignment mark
+alignment pin
+alignment registration
+alignment requirements
+alkali antimonide
+alkali free environment
+alkaline strippable resist
+all band tv tuner
+all diffused integrated circuit
+all mains receiver
+all weather radar
+allotter
+allowed band
+allowed level
+allowed line
+allowed transition
+alloy
+alloy film
+alloy junction
+alloy junction transistor
+alloy transistor
+alloyed contact
+alloyed diode
+alloyed junction
+alloyed region
+alloyed transistor
+alpha
+alpha immunity
+alpha particle bombardment
+alpha particle protection
+alpha radiation sensitivity
+alpha scintillation counter
+alphabetic
+alphanumeric printing tube
+alphatron
+alsttl
+alternate route
+alternate routing
+alternate scanning
+alternating current
+alternating current measurement
+alternating current resistance
+alternating supercurrent
+altimeter
+altitude indicator
+alu
+alumina
+alumina ceramic scribing
+alumina package
+aluminizing
+aluminosilicate glass
+aluminum bonding
+aluminum gate
+aluminum metallization
+aluminum oxide ceramics
+aluminum spiking
+aluminum step coverage
+aluminum wire bond
+am
+am receiver
+am reception
+amateur
+amateur band
+amateur radio station
+amateur station
+ambient air monitor
+ambient enviroment
+ambient humidity
+ambient pressure
+ambient temperature
+ambiguity
+ambipolar diffusion
+ammonia maser
+ammonium molecular beam frequency standard
+amorphization
+amorphous crystalline transition
+amorphous implantation
+amorphous semiconductor
+amorphous semiconductor device
+amorphous state
+amorphous structure
+amount of information
+amplification
+amplification constant
+amplification factor
+amplification linewidth
+amplifier
+amplifier band
+amplifier noise
+amplifier stage
+amplify
+amplifying klystron
+amplifying transition
+amplifying tube
+amplitron

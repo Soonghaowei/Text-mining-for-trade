@@ -1,0 +1,271 @@
+land wall
+key-wall
+wave wall
+breast wall
+lead wall
+partition wall
+retaining wall
+wing wall
+breast wall
+dam crest
+dam heel
+dam toe
+sheet pile
+side pier
+bucket lip
+fault
+settlement
+tidal sluice
+earthquake action
+cushion abutment
+wave force
+ice pressure
+silt pressure
+uplift
+buttress dam
+rubber dam
+arch dam
+gravity dam
+overflow dam
+valve gate
+auxiliary dam
+service bridge
+piping
+chemical piping
+apron extension
+transverse joint
+siphon spillway
+butterfly valve
+slope protection
+apron
+radial gate
+traffic bridge
+contact scouring
+contact grouting
+joint grouting
+curtain grouting
+irrigation tunnel
+grout curtain
+check sluice
+water inlet
+inlet sluice
+cavitation
+flaring pier
+gallery
+river sluice
+asphalt concrete
+soil flow
+anchor rod
+face slab
+corbel
+drainage
+outlet sluice
+sprayed concrete
+plane gate
+blanket
+stone pitching
+solution cavern
+sluice
+elastic modulust
+geomembrane
+temperature load
+temperature control
+temperature stress
+temperature action
+free level tunnel
+stilling pool
+roller bucket
+outlet hole
+spillway
+plunge pool
+stress analysis
+pier
+gate
+gate slot
+toe slab
+gravity abutment
+peripheral joint
+standing wave
+cone valve
+free drop
+dead weight
+key trench
+contraction joint
+construction joint
+flip bucket
+trash rack
+transition
+chute
+power intake
+air vent
+bulkhead gate
+emergency gate
+service gate
+weir
+air vent
+beam
+column
+backfill concrete
+earth
+primary concrete
+secondary concrete
+stoplog
+gantry crane
+waterstop
+reinforcement
+formwork
+cofferdam
+power house
+workshop
+generator
+transformer station
+auxiliary room
+power house
+erection bay
+tail lock
+tailrace
+approach channel
+forebay
+harbour
+port structure
+navigation lock
+lock filling
+upper pool
+lock lift
+lock head
+ship elevato
+fish canal
+by-pass
+segregation
+macadam
+screed
+water system
+discontinuous flow
+desertification
+pollution source
+gross area
+side banks
+training wall
+infrastructure
+road net
+anabranch
+drop
+river course
+vegetation
+green belt
+wetland
+frame crane
+settlement
+setting retarder
+service gate
+stoplog gate
+air-condition
+alluvium
+asphaltic
+bench
+bid
+blasting cap
+borehole
+borrow
+catchment
+closestool
+corbel-piece
+cut-off wall
+culvert
+fire fighting
+inspect
+invert slab
+joint venture
+mobile crane
+mortar
+overhead
+rear elevation
+reservoir
+small backhoe
+soil nail
+tipping trucks
+weathered
+release agent
+segment gate
+overflow gate
+overpour gate
+jet-flow gate
+truss
+fault
+admixture
+additive
+test fill
+seepage
+abutment
+foundation pit
+water course
+escape
+gate
+siphon
+convey
+contractor
+joint venture
+afterbay dam
+conveyor
+plan
+seller
+excavation
+coordinate point
+weir
+valley
+stockpiling
+berm
+adit
+backfill
+intake
+yard
+permanent
+chilled water
+workshop
+sino
+blasting explosive
+blasting cap
+blasting charge
+killer
+chute
+borrow
+corridor
+tile
+brace
+rolling machine
+tube
+welding rods
+solo
+diesel
+diesel tank
+laboratory
+laundry
+camp
+canteen
+labour
+labour bureau
+park
+gantry crane
+trashrack
+outline
+trashracks
+guardrail
+borrow area
+quarry
+embankment
+access
+agreement
+allocation
+approval
+arbitration
+assistant
+civil works
+claim
+comment
+consultant
+contract agreement
+contractor
+surge tank
+rock mass
+lining
+crannies

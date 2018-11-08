@@ -1,0 +1,100 @@
+A/D
+A/D converter
+absolute time
+acceleration time
+accelerator card
+accelerator key
+access authority
+access control
+access object
+access time
+according to
+achromatic color
+Acorn Computers
+action bar
+action code
+action list
+active border
+active chart
+active region
+active state
+active time
+active window
+actual life
+adapter card
+addition record
+address bus
+address mapping
+address space
+addressable cursor
+addressable point
+advanced options
+aerial perspective
+air gap
+alert box
+algebraic expression
+algebraic operation
+algebraic sign
+algorithmic language
+back panel
+3-D view
+386 enhanced mode
+fade in
+gallium arsenide
+I-beam
+key combination
+label field
+machine language
+name code
+object animation
+pad character
+radio button
+sample and hold circuit
+ultra-high frequency
+x-axis
+Y-axis
+Z-axis
+assembly program
+available time
+back projection
+back-end
+background color
+background image
+background job
+background noise
+background processing
+background task
+backslash character
+backspace key
+backup and recovery
+backup and restore
+backup copy
+backup file
+backwards compatible
+bandpass filter
+bar chart
+bar code
+CAD
+bar graph
+CAI
+bar-code reader
+cal
+bare computer
+base 2
+calculator chip
+base address
+calibrate
+base font
+call error
+base number
+call handler
+basic input/output system
+cam
+cancel button
+cancel key
+batch file
+batch processing
+Baud rate
+carpal tunnel syndrome
+beam deflection
+carry bit

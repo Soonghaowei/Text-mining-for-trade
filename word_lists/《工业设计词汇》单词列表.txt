@@ -1,0 +1,286 @@
+die
+sliding block
+feature die
+rinse
+anodize
+dismantle the die
+sand blasting
+degate
+satin texture
+magnalium
+through-hole form
+plain die
+pierce die
+forming die
+procedure dwg
+located block
+compre sion molding
+striper plate
+hot runner
+extrusion molding
+squeeze casting
+investment casting
+air vent vale
+bracket
+dowel pin
+ejector rod
+guide post
+guide rail
+gate
+paring line
+roller
+spindle
+square thread
+stop pin
+three start screw
+vent
+boring machine
+contouring machine
+copy grinding machine
+copy lathe
+machine center
+alloy tool steel
+stainless steel
+vinyltapped steel sheet
+ageing
+air hardening
+annealing
+anodizing
+austempering
+barrel plating
+bright electroplating
+carburizing
+decarburization
+diffusion
+Embossing
+etching
+hardenability
+heat treatment
+metallikon
+nitriding
+quench ageing
+Color matching
+lubricant
+resilience
+tie bar
+composite material
+engineering plastics
+plastic
+polycarbonate
+polypropylene
+polystyrene
+thermoplastic
+thermosetting
+aberration
+blister
+blooming
+burr
+cell
+camber
+check
+checking
+chipping
+color mottle
+corrosion
+deformation
+flaw
+internal porosity
+pit
+riding
+scar
+scrap jam
+trimming
+blanking
+coining
+fine blanking
+die assembly
+fly wheel
+arc discharge
+design = communication
+optimize
+utility
+appearance
+easy of maintenance
+low costs
+communication
+chedule
+time allocation
+critical path analysis
+job number
+job sheets
+expenses
+checking against the brief
+reestablish direction
+controlling quality
+moving design along
+handling disagreements
+ill-structured problem
+well-structured
+brainstrom
+conceptual design
+embodiment design
+detail design
+outer activity
+customer requirement
+market research
+design specifecation
+idea sketch
+rough sketch
+working drawing
+mockup
+classicfication of information
+market environment
+competitive products
+product history
+brand predecessors
+ruling market prices
+economics quantities
+identity of user
+nvironment at point of use
+user motivation
+user lifestyle
+interface
+user scenarios
+mechanics
+construction
+limited dimension
+product matiral
+facilities
+manufacture
+finish
+paint
+aesthetics
+gathered from existing data
+derived from original data
+specialty catalogues
+statistical abstracts
+trade association
+anticipatory research
+consequential research
+patent search
+definition of problems
+preparation
+planning
+selection of user group
+estimate of number of interviews requires
+preparation of questionnaire
+field investigation
+writing the report
+design guideline
+workshop processes
+snap shot
+scenarios of key issues
+negative scenes
+positive scenes
+design
+Modern Design
+Craft Design
+Industrial Design
+Genealized Industrial Design
+Narrow Industrial Design
+Product Design
+Communication Design
+Comercial Design
+architectural
+One-dimension Design
+Tow-dimension Design
+Three-dimension Design
+Four-dimension Design
+Furniture Design
+framework
+level of perception
+mathematical or fuctional problem
+work of art
+evolution of man
+protection color
+stylistic variations
+miniaturization
+electronics
+interaction
+contrast
+surface finished
+precise
+foot print
+stability
+adjustable
+standardization
+globalization
+symbolism expression
+slim
+wearable
+speedy
+styled ornamentation
+vent
+pattern
+visual equilibrium
+symmetrical balance
+bilateral symmetry
+radial symmetry
+asymmetrical balance
+proportion
+Golden proportion
+Fibonacci series
+harmonic progression
+rhythm
+repetition
+alternation
+gradation
+emphasis
+point of focus
+interruption
+harmony
+oneness
+uniformity
+proximity
+isolate
+sympathize
+change size
+substitute
+animate
+organic
+distort
+supplement
+contradict
+reverse
+mythologize
+combine
+symbolize
+transform
+parody
+visual joke
+subtract
+analogize
+essential elements
+intensity
+color spectrum
+hue
+lightness
+saturation
+munsell systerm
+color gamut
+perceived structure
+orientation
+visibility
+durability of appearance
+maintenance
+theoretic
+monochromatic
+apposite color
+complementary
+triadic
+split complementary
+translucence
+metallic treatment
+chameleon colors
+frost
+layering
+gloss
+sheer-high gloss
+spray-paint
+texture
+acry
+led
+electroplate
+galvanization
+surface brush
+brushed aluminum

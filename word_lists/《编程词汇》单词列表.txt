@@ -1,0 +1,380 @@
+data structures
+dictionaries
+priority Queues
+numerical problems
+linear programming
+knapsack problem
+fourier
+combinatorial problems
+sorting
+searching
+median and selection
+generating permutations
+generating subsets
+generating partitions
+generating graphs
+calendrical calculations
+Job scheduling
+satisfiability
+connected components
+topological sorting
+shortest path
+matching
+eulerian cycle
+network flow
+drawing trees
+clique
+Independent set
+vertex cover
+graph partition
+vertex coloring
+edge coloring
+graph Isomorphism
+steiner tree steiner
+feedback edge
+computational geometry
+convex Hull
+triangulation
+range search
+point location
+Intersection detection
+bin packing
+polygon partitioning
+simplifying polygons
+shape similarity
+motion planning
+set cover
+set packing
+string matching
+text compression
+cryptography
+recursion
+abstract
+abstract class
+abstraction
+access
+access level
+access function
+account
+action
+activate
+active
+actual parameter
+adapter
+add-in
+address
+address space
+advanced
+aggregation
+algorithm
+alias
+align
+allocate
+allocator
+angle bracket
+annotation
+application
+application framework
+appearance
+append
+architecture
+archive file
+array
+arrow operator
+assembly
+assembly language
+assembly manifest
+assert(ion)
+assign
+assignment
+assignment operator
+associated
+associative container
+asynchronous
+atomic
+atomic operation
+attribute
+authentication service
+authorization
+audio
+background
+backward compatible
+backup
+backup device
+backup file
+bandwidth
+base class
+base type
+batch
+binary
+binary search
+binary tree
+binary function
+binary large object
+binary operator
+binding
+bit
+bitmap
+bitwise
+bitwise copy
+bitwise operation
+block
+bookkeeping
+boolean
+border
+bounds checking
+boxing
+brace
+bracket
+breakpoint
+browser applications
+build
+built-in
+bus
+business
+business logic
+business rules
+buttons
+parachute
+by
+byte
+cache
+calendar
+call
+callback
+call-level interface
+call operator
+candidate key
+cascading delete
+cascading update
+casting
+catalog
+chain
+character
+character format
+character set
+checkpoint
+check box
+check button
+child class
+class
+class declaration
+class definition
+class factory
+class hierarchy
+class library
+class loader
+class template
+classification
+clause
+client application
+client cursor
+code page
+cleanup
+client
+client area
+client-server
+clipboard
+clone
+collection
+combo box
+command line
+comment
+commit
+communication
+compatible
+compile time
+compiler
+component
+composite index
+composite key
+dairy
+concept
+concrete
+concrete class
+concurrency
+constraint
+configuration
+connection
+connection pooling
+console
+constant
+construct
+constructor
+container
+containment
+context
+control
+copy
+cover
+create
+crosstab query
+cube
+cursor
+cursor
+custom
+data
+data connection
+data dictionary
+data dictionary view
+data file
+data integrity
+data mart
+data pump
+data scrubbing
+data source
+data warehouse
+dataset
+database
+database catalog
+database diagram
+database file
+database object
+database owner
+database project
+database role
+database schema
+database script
+data-bound
+data-aware control
+data member
+dataset
+data source
+data structure
+data table
+datagram
+dead lock
+deallocate
+debug
+debugger
+decay
+decision support
+declaration
+deduction
+default database
+default instance
+default result set
+default
+defer
+definition
+delegate
+delegation
+deploy
+dereference
+dereference operator
+derived class
+design by contract
+design pattern
+destroy
+destructor
+device
+dialog
+digest
+digital
+directive
+directory
+dirty pages
+dirty read
+disassembler
+disk
+dispatch
+distributed computing
+distributed query
+document
+dot operator
+driver
+dump
+dump file
+dynamic cursor
+dynamic filter
+dynamic locking
+dynamic recovery
+dynamic snapshot
+dynamic binding
+efficiency
+efficient
+end user
+engine
+entity
+encapsulation
+enum
+enumerators
+equal
+equality
+equality operator
+error log
+escape code
+escape character
+exclusive lock
+explicit transaction
+evaluate
+event
+event driven
+event handler
+evidence
+exception
+exception declaration
+exception handling
+exception-safe
+exception specification
+exit
+explicit
+explicit specialization
+export
+expression
+facility
+fat client
+feature
+fetch
+field
+field
+field length
+file
+filter
+finalization
+firewall
+finalizer
+firmware
+flag
+flash memory
+flush
+font
+foreign key
+form
+formal parameter
+forward declaration
+forward-only
+fragmentation?
+framework
+full specialization
+function
+function object
+functionality
+function template
+functor
+game
+generate
+generic
+generic algorithm
+genericity
+getter
+global
+global object
+grant
+granularity
+group
+group box
+hand shaking
+handle
+handler
+hard-coded
+hard-copy
+hard disk
+hardware
+hash table
+header file
+heap
+help file
+hierarchy
+hierarchical data
+hook

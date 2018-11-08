@@ -1,0 +1,378 @@
+ionization chamber
+pulse counting assembly
+ionization chamber
+pulse counting assembly
+a battery
+a bomb
+a.c.
+a.m.u.
+a.w.u.
+aarr
+aas
+abc neutron source
+abc weapons
+abernathyite
+aberration
+abmr
+abnormal
+abnormal exposure
+abnormal exposure condition
+abnormal radiation
+above critical
+above water nuclear explosion
+abrasion
+abrasive
+abscissa
+absolute activity
+absolute age
+absolute assay
+absolute atomic weight
+absolute blackbody
+absolute calibration
+absolute counting
+absolute disintegration rate
+absolute electrometer
+absolute error
+absolute ether
+Absolute humidity
+absolute measurement
+absolute temperature
+absolute unit
+absolute value
+absolute zero
+absorb
+absorbability
+absorbed dose index
+absorbed dose rate
+absorbent
+absorber
+absorber element
+absorbing agent
+absorbing material
+absorbing medium
+absorbing power
+absorbing rod
+absorption
+absorption analysis
+absorption band
+absorption coefficient
+absorption column
+absorption control
+absorption cross section
+absorption curve
+absorption dose
+absorption edge
+absorption equivalent
+absorption extraction
+absorption factor
+absorption index
+absorption length
+absorption limit
+absorption line
+absorption mean free path
+absorption method
+absorption model
+absorption monte carlo reactor computer code
+absorption of beta particles
+absorption of gamma radiation
+absorption of radiant energy
+absorption probability
+absorption spectrum
+absorptive
+absorptive power
+absorptivity
+abundance
+abundance of isotopes
+abundance ratio
+ac
+ac bridge
+ac voltage
+acc
+accel decel aperture
+accelerated particle
+accelerating agent
+accelerating chamber
+accelerating electrode
+accelerating force
+accelerating period
+accelerating tube
+accelerating voltage
+acceleration
+acceleration cavity
+acceleration voltage
+accelerator
+accelerator breeding
+accelerator dynamics
+accelerator focusing
+accelerator mass spectrometry
+accelerator technology
+accelerometer
+acceptance
+acceptor
+access for inspection
+accessory
+accident
+accident analysis
+accidental coincidence
+accidental coincidence correction
+accidental detonation
+accidental error
+accidental exposure
+accidental high exposure
+accidental loss
+accompanying element
+account
+account balance
+account total
+accountability
+accountability tank
+accountancy detection probability
+accounting for and control of material
+accounting records
+accounting report
+accumulated dose
+accumulation
+accumulation effect
+accumulation ring
+accumulator
+accumulator tank
+accuracy
+accuracy of measurement
+accuracy of reading
+accurate x ray structure analysis
+acd
+achromat
+achromatic lens
+achromaticity
+achromatism
+acid
+acid resistance
+ack
+aclinic line
+acoustic
+acoustic emission
+acoustic frequency
+acoustic heating
+acoustical
+acoustics
+acpr
+acs
+actinic rays
+actinide
+actinide element
+actinide elements
+actinide lanthanide separation
+actinide metallide
+actinide series
+actinides
+actinium
+actinium a
+actinium b
+actinium c
+actinium emanation
+actinium family
+actinium group
+actinium k
+actinium lead
+actinium series
+actinium x
+actino uranium
+actino uranium series
+actinodermatitis
+actinogenics
+actinoid contraction
+actinology
+actinometer
+actinon
+action at a distance
+action variable
+activable tracer
+activate
+activated adsorption
+activated complex
+activated molecule
+activated sludge
+activated water
+activating agent
+activation
+activation cross section
+activation curve
+activation detector
+activation energy
+activation foil
+activation method
+activation method of cross section determination
+activator
+active
+active area
+active carbon
+active center
+active deposit
+active element group
+active fall out
+active hydrogen
+active lattice
+active laundry
+active length
+active loop
+active mass
+active neutron method
+active poison
+active power
+active solvent
+active valence
+active well coincidence counter
+active zone
+activited carbon
+activity
+activity build up
+activity coefficient
+activity concentration
+activity curve
+activity decay
+activity mass formula
+activity meter with automatic changer
+activity range
+activity unit
+actual
+actual ground zero
+actual routine inspection effort
+actual yield
+acu
+acute effect
+acute exposure
+acute radiation injury
+acute radiation sickness
+acute radiation syndrome
+ad hoc inspection
+adamantine
+adaptatior
+adapter sleeve
+adaptive control
+adc
+adherence
+adhesive force
+adhesive power
+adhesiveness
+adhesives
+adhesivity
+adiabatic
+adiabatic change
+adiabatic compression
+adiabatic containment
+adiabatic curve
+adiabatic expansion
+adiabatic heating
+adiabatic invariance
+adiabatic invariant
+adiabatic line
+adiabatic nuclear demagnetization
+adiabatic potential
+adiabatic potential curve
+adiabatic principle
+adiabatic process
+adiabatic trap
+adion
+adjacent element
+adjoint flux
+adjoint function
+adjustment
+adm
+admissible error
+admixture
+adp
+adps
+ads
+adsorb
+adsorbate
+adsorbent
+adsorption
+adsorption capacity
+adsorption chromatography
+adsorption coprecipitation
+adsorption method of separation
+adsorption potential
+adsorption power
+adsorption probability
+adsorption stage
+adu
+advanced epithermal thorium reactor
+advanced gas cooled reactor
+advanced pressure tube reactor
+advanced pressurized water reactor
+advanced reactivity measurement facility
+advanced reactor technology
+advanced stellarator
+advanced test reactor
+advanced test reactor critical experiment
+advanced thermal reactor
+advanced very high resolution radiometer
+advantage factor
+ae
+aecm
+aeds
+aeg
+aeolotropic
+aeration
+aerial radiological measuring system
+aerodynamic diameter
+aerogel
+aerometer
+aerosol
+aerosol filter
+aerosol sampler
+aerosol sampling
+aerospace systems test reactor
+aes
+aetr
+af
+affinity
+affinity labelling
+afs
+after cut
+after effect
+after heat
+after power
+after pulse
+after settler
+after treatment
+aftercooling
+afterglow
+afterloading source
+afterloading technique
+afterloading unit
+afterpulse
+aftershock
+age
+age determination
+age diffusion approximation
+age diffusion kernel
+age distribution
+age equation
+age equation without capture
+age hardening
+age of cosmic ray irradiation
+age theory
+aged fission product
+agent
+aggregate recoil
+aggregation
+aging
+agitate
+agitation
+agr
+agreement
+agz
+ahf
+ahr
+air bath
+air blast
+air bubble
+air burst
+air compressor
+air contamination indicator
+air contamination meter
+air coolant
+air cooled
+air cooled graphite moderated reactor
+air cooled oil vapor diffusion pump

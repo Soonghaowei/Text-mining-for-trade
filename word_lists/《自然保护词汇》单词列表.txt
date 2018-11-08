@@ -1,0 +1,380 @@
+environmental damage costs
+Purchasing Power Parity
+Environmental Kuznets Curve (EKC)
+environmental externalities (of economic activities) (EE)
+distortionary cost
+Non-point source
+Emissions taxes
+red tide
+BOD; biological oxygen demand
+COD;chemical oxygen demand
+noise
+ENSO (El Nino Southern Oscillation)
+CFCs
+cell-driven vehicles; battery cars
+lead-free gasoline
+exhaust purifier
+motor vehicle exhaust
+clean energy
+soot emissions
+suspended particles
+sulfur dioxide (SO2) emissions
+acid rain and transboundary air pollution
+air pollution concentration
+atmospheric monitoring system
+vicious cycle of poverty
+subsistence agriculture
+uncontrolled urbanization
+environmental degradation
+protect coastal zones from irreversible degradation
+landscaping design for environmental purposes
+nature-nurture
+multipurpose use of three types of wastes
+carrying capacity of environment
+desertification
+natural ecosystems
+rare and endangered species breeding center
+endangered wildlife
+conserve natural habitats
+wild fauna and flora
+nature reserve
+environment-friendly products
+develop renewable resources
+slow down the rate of resource degradation
+fast-growing trees
+wind breaks
+sand breaks
+forest coverage
+afforested areas; greening space
+afforestation project
+National Tree-Planting Day
+turn the country green
+protect coral reefs, mangrove and fishing resource
+sea water desalinization
+environment-friendly agriculture; eco-agriculture
+conservation of water and soil
+pesticide residue
+soil alkalization
+water and soil erosion
+rate of deforestation
+protect forests from overexploitation
+refuse landfill
+Working Languages
+cost-benefit analysis
+Air-water interaction
+Image classification
+image enhancement
+Image filtering
+Image registration
+Immunological diseases
+Incineration of waste
+Indigenous forests
+Indigenous knowledge
+Industrial buildings
+Industrial effluents
+Industrial legislation
+Industrial materials
+Industrial noise
+Industrial products
+Information centre
+Information exchange
+Information networks
+Information processing
+Information services
+Information systems
+information technology
+infrastructure
+Inland water transport
+Inland waterways
+Inorganic chemistry
+Inorganic substances
+Intergovernmental
+International trade
+International watercourses
+Ionizing radiation
+Iron industry
+Irrigation farming
+Lake basins
+Land allotment
+Land pollution
+Land reclamation
+Land restoration
+Land transportation
+Land values
+Land-based activities
+laundering
+Leather industry
+lifestyles
+Liquid wastes
+Long-term forecasting
+Long-term trends
+Low-cost housing
+Mailing list
+malnutrition
+mammals
+Mangrove swamps
+Marginal lands
+Marine engineering
+Marine environment
+Marine  monitoring
+marine pollution
+Materials science
+Medicinal plants
+Metal finishing
+Metal plating
+Metal smelting
+microbiology
+Micropollutants
+Migrant workers
+Military activity
+Mine filling
+Mineral resources
+Mining engineering
+Mining wastes
+minorities
+Mobile homes
+Molluscs
+Monitoring criteria
+Monitoring data
+Monitoring equipment
+Monitoring systems
+Monitoring techniques
+mosaics
+Motor vehicles
+mountaineering
+Municipal waste
+National boundaries
+National legislation
+National parks
+Natural fertilizers
+Natural fibres
+natural resources
+Nature conservation
+newsletter
+Nitrites
+Nitrogen oxides
+Noise abatement
+Noise monitoring
+noise pollution
+Nuclear energy uses
+Occupational health
+Occupational safety
+Ocean circulation
+Ocean dumping
+Ocean temperature
+Odour nuisance
+Oil exploration
+Oil extraction
+Oil spills
+On-line services
+Organic chemistry
+Organic farming
+Organic solvents
+Organic substances
+overcrowding
+parasites
+Pattern recognition
+Petroleum refining
+Pharmaceutical wastes
+photosynthesis
+Physical alterations
+Pilot projects
+Plant diseases
+Plastic wastes
+Policy planning
+Pollution abatement
+Pollution monitoring
+Pollution risk
+Polychlorinated biphenyls
+Ponds tailings
+Poultry farming
+Precipitation enhancement
+Press release
+Pressure groups
+Printing industry
+Professional society
+Protozoa
+Public gardens
+Public health
+Public information
+public relations
+public services
+Public utilities
+Pulp industry
+quality control
+Race relations
+Radiation effects
+Radiation monitoring
+radiation protection
+Radio programme
+Railway transport
+Reference service
+Regional planning
+Regulatory control
+rehousing
+Remote sensing centre
+Rental housing
+Replacement costs
+Reproductive manipulation
+reptiles
+Resource appraisal
+Resource conservation
+Resources management
+Revegetation
+River basins
+River pollution
+Road construction
+Road maintenance
+Road safety
+Road transport
+Rubber processing
+Rubber waste
+Rural areas
+Rural water supply
+Sampling techniques
+Sand extraction
+Sanitary landfills
+sanitation
+schistosomiasis
+Sea bed exploitation
+Sea bed mining
+Sedimentary basins
+Seismic activity
+Seismic monitoring
+Seismic sea waves
+Sewage disposal
+Shifting cultivation
+Social indicators
+Social surveys
+Software development
+Soil conservation
+Soil contamination
+Soil degradation
+soil erosion
+Soil improvement
+Solar heating
+Solar radiation
+Solid Earth
+Solid wastes
+Space transportation
+Sports facilities
+Statistical information
+Status of development
+Steel industry
+Stream measurement
+Strip mining
+Tar production
+Tar use
+Technical information
+Technology assessment
+Technology transfer
+Television programme
+Temperate forests
+Temperate woodlands
+Temporary housing
+Terms of access
+Tourist facilities
+Toxic substances
+Toxic waste
+Toxicological testing
+Trace elements
+Trace materials
+Trade barriers
+Traditional health care
+Traffic monitoring
+Traffic noise
+training centre
+Trans-frontier pollution
+transpiration
+Transport planning
+Transport systems
+Tree nurseries
+Tropical forests
+Under-privileged people
+Urban areas
+Urban decay
+urban design
+Urban renewal
+Urban stress
+Urban traffic
+Urban water supply
+Vehicle inspection
+Warning systems
+waste disposal
+Waste recovery
+Waste use
+Water transportation
+Watershed management
+Weather monitoring
+Weather prediction
+wildlife
+Women status
+Wood preservation
+Wood waste
+working environment
+academic
+Agro-industry
+Allergens
+alumina
+Animal husbandry
+Animal products
+apiculture
+architecture
+bacteriology
+bicycles
+biology
+biomass
+Botanical gardens
+botany
+brewing industry
+buildings
+Built-up areas
+Cadmium contamination
+Carbon cycle
+Carcinogens
+cartography
+Catchment areas
+cellulose
+Chlorofluorocarbons
+climatic zones
+climatology
+Coal gasification
+Coal liquefaction
+Combustion engines
+Coniferous forests
+consumer goods
+Cooling waters
+Coral reefs
+cytology
+Dairy industry
+Dangerous goods
+database
+desertification
+Disabled persons
+Drinking water
+Electric power plants
+Enriched uranium
+Environmental law
+epidemics
+filters
+food chain
+Forest products
+Gene banks
+genetics
+geology
+Geomorphology
+geothermal energy
+Glaciology
+governmental
+Greenbelts
+Gridding
+Haematology
+Heavy metals
+Herbicides
+horticulture
+Hydrogen sulphide
+hydrology
+hypertext
+immunology
+Industrial areas
+infrared

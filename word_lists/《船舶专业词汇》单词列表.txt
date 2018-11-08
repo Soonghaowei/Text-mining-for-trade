@@ -1,0 +1,228 @@
+bow plate
+corrugated bulkhead plate
+bulwark plate
+coaming plate
+connection plate
+copper sheathing steel plate
+deck stringer plate
+slop plate
+reinforcement plate
+rudder plate
+side plate
+skirt plate
+stem plate
+stern plate
+platform
+engine-room platform
+block
+bow block
+midship block
+stern block
+girder
+bar girder
+bottom center girder
+bottom center line girder
+bottom girder
+bottom side girder
+structure
+dockyard/shipyard
+ship-owner
+quay
+hold
+ship’s registr
+bow
+ladder
+stern
+dock/boatyard
+ship’s side
+ship’s rail
+accommodation deck
+arch deck
+cargo deck
+hold deck
+bridge deck
+watertight deck
+navigation deck
+boat deck
+compass deck
+plate
+bilge plate
+bottom plate
+shell side longitudinal
+top longitudinal of double bottom
+slopping bulkhead longitudinal
+structure
+accessory structure
+all-welded structure
+amidships structure
+berthing structure
+bottom keel structure
+bow structure
+braced structure
+bridge structure
+forecastle structure
+framed structure
+girder structure
+after tank
+auxiliary tank
+bilge tank
+bottom tank
+bottom side tank
+cargo and ballast tank
+circulating lubricating oil tank
+circulating flow water tank
+clean ballast tank
+condensate catch tank
+dry tank
+drinking tank
+dump tank
+deck girder
+cross girder
+horizontal girder
+hatch coaming girder
+engine girder
+under deck girder
+wing girder
+pillar
+base frame
+holen.
+mark
+anchor
+bilgen
+burnish
+cancelling
+chain
+coaming
+crack
+drink
+fore
+green
+grind
+keel
+loudspeaker
+meter
+motor
+port
+router
+sandvt
+sashimi
+scrap
+sign
+sounding
+starboard
+steel
+upper
+wash
+washing
+winch
+wing
+bear frame
+bilge frame
+bottom frame
+bow frame
+bracket frame
+bulbous bow frame
+bulbous frame
+chief frame
+fore frame
+girder frame
+middle frame
+a faired set of lines
+a stereo pair of photographs
+abaft
+abandonment cost
+gene
+accommodation ladder
+adjust valve
+adjustable-pitch
+admiralty
+advance coefficient
+aerostatic
+aft peak bulkhead
+aft peak tank
+aileron
+air cushion vehicle
+air diffuser
+air intake
+aircraft carrier
+air-driven water pump
+airfoil
+alignment chock
+aluminum alloy structure
+American Bureau of Shipping
+amidships
+amphibious
+anchor arm
+anchor chain
+anchor crown
+anchor fluke
+anchor mouth
+anchor recess
+anchor shackle
+anchor stock
+Angle bar
+angle of attack
+angle plate
+angled deck
+anticipated loads encountered at sea
+anti-pitching fins
+antiroll fins
+anti-rolling tank
+appendage
+artisan
+assembly line
+at-sea replenishment
+augment of resistance
+auxiliary systems
+auxiliary tank
+axial advance
+backing structure
+back-up member
+balance weight
+ball bearing
+ball valve
+ballast tank
+bar
+bar keel
+barge
+baseline
+basic design
+batten
+beam
+beam bracket
+beam knee
+bed-plate girder
+bending-moment curves
+Benoulli’s law
+berth term
+bevel
+bidder
+bilge
+bilge bracket
+bilge radius
+bilge sounding pipe
+bitt
+blade root
+blade section
+blast
+block coefficient
+blue peter
+boarding deck
+boat davit
+boat fall
+boat guy
+bobstay
+body plan
+bolt
+Bonjean curve
+boom
+boss
+bottom side girder
+bottom side tank
+bottom transverse
+boundary layer
+bow line
+bow wave
+bowsprit
+bow-thruster
+box girder

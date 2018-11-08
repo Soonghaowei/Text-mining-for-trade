@@ -1,0 +1,380 @@
+a. c. generator
+aberration
+absolute index of refraction
+absolute refractive index
+absolute zero
+absorber
+absorbing power
+absorptance
+absorption
+absorption coefficient
+absorption line
+absorption spectrum
+accelerate
+acceleration
+acceleration due to gravity
+acceleration-time graph
+accelerator
+acceptor
+gene
+accumulator
+accuracy
+acetate strip
+achromatic
+achromatic aberration
+achromatic condenser
+acoustic board
+acoustic pressure
+acoustics
+act on
+action
+activation
+activation energy
+active nucleus
+activity
+adapter
+adder
+adhesion
+adhesive force
+adiabatic
+adiabatic expansion
+adiabatic process
+aerial
+cable
+d. c. generator
+earth
+far point
+gain
+ideal gas
+Jaegers method
+kaleidoscope
+lagging
+mach number
+NAND gate
+object
+pair production
+Q-factor
+radial acceleration
+safety device
+tangential acceleration
+ultimate tensile stress
+vacuum
+water vapour
+xenon
+yield point
+zener diode
+aerial network
+angle of refraction
+atomic density
+background radiation
+Bainbridge mass spectrometer
+balance
+balance arm
+balance bridge
+balance point
+balanced force
+cadmium sulphide
+ball bearing
+caesium
+ballistic galvanometer
+calcite
+calibrate
+ballistic pendulum
+d. c. motor
+calipers
+Balmer series
+Dalton's law of partial pressures
+calorie
+band spectrum
+damped harmonic motion
+bandwidth
+calorimeter
+bar code
+camera
+damped oscillation
+bar magnet
+cancer cell
+damping
+bare wire
+candela
+damping force
+dark fringe
+cantilever
+barium
+data
+capacitance
+barometer
+dating
+barrier
+capacitive circuit
+barrier layer
+de Broglie relation
+capacitive coupling
+de Broglie wave
+base
+capacitive discharge
+dead time
+capacitive reactance
+base current
+capacitor
+battery
+decay
+capacity
+battery charger
+capillarity
+battery holder
+decay constant
+capillary depression
+beaker
+capillary rise
+beam splitter
+decay curve
+beat
+capillary tube
+decay law
+beat frequency
+shuttle
+decay product
+becquerel
+capture
+decelerate
+carbon
+deceleration
+carbon granule
+bell jar
+decibel
+carbon paper disc
+decode
+carbon-14 dating
+decoder
+Bernoulli's theorem
+deflection
+beryllium
+carburettor
+carrier wave
+beta decay
+deflection plate
+beta particle
+deflection system
+carry
+biasing circuit
+castor oil
+biasing voltage
+deformation
+cataract
+biconcave lens
+cathode
+biconvex lens
+degree
+cathode ray
+bicycle dynamo
+bifilar pendulum
+degree Celsius
+degree of freedom
+cathode-ray oscilloscope
+cathode-ray tube
+demagnetization
+big bang model
+bimetallic strip
+cavity resonator
+celestial telescope
+density
+cell
+depletion layer
+depth of field
+centimetre
+derived quantity
+derived unit
+destructive interference
+centre of gravity
+detection
+detector
+earthquake waves
+ebonite
+echo
+farad
+gain control
+eddy current
+galaxy
+Faraday's law of electromagnetic induction
+eddy current loss
+fast breeder reactor
+effective mass
+feedback
+galvanometer
+feedback amplifier
+efficiency
+gamma radiation
+feedback resistance
+effort
+ferromagnetic substance
+gamma ray
+ferromagnetism
+elastic collision
+gap
+snowball
+elastic constant
+fictitious force
+elastic deformation
+gas pressure
+fidelity
+elastic hysteresis
+field coil
+gaseous phase
+elastic limit
+field effect transistor
+gaseous state
+elastic strain energy
+field intensity
+gauge
+elasticity
+field lines
+electric bell
+Gauss theorem
+electric charge
+field of view
+Geiger counter
+electric current
+electric field
+field strength
+Geiger-Muller counter
+electric field intensity
+figure of merit
+filament
+filter capacitor
+general gas law
+filter circuit
+electric fire
+filter pump
+generator
+electric line of force
+final state
+genetic effect
+electric motor
+final velocity
+electric potential
+fine-adjustment
+geometrical optics
+electric power
+fire alarm
+germanium
+electric shock
+first law of thermodynamics
+electrical appliance
+first order spectrum
+glancing angle
+electrical conductivity
+fission
+electrical energy
+glass fibre
+fission reactor
+glycerine
+electrical oscillation
+fixed point
+gold foil
+fixed pulley
+electrical resonance
+fixed resistor
+electricity
+gradient
+flat coil
+graduated cylinder
+electrode
+electrolysis
+electrolyte
+grain
+electrolytic
+electrolytic capacitor
+gramophone record
+graph
+floating body
+electromagnet
+graphical method
+electromagnetic coil
+fluid
+grating
+electromagnetic contact
+fluid dynamics
+grating spectrometer
+electromagnetic force
+fluorescence
+gravitational acceleration
+electromagnetic induction
+fluorescent screen
+electromagnetic moment
+gravitational attraction
+flux
+electromagnetic oscillation
+gravitational constant
+flux density
+gravitational field
+fly-back
+gravitational force
+gravitational mass
+flywheel
+gravitational potential
+gravitational potential difference
+gravitational potential energy
+gravity
+half adder
+half-life
+half-wave rectification
+half-wave rectifier
+ideal gas equation
+Hall effect
+Hall probe
+ideal machine
+Hall voltage
+illuminate
+image
+jet propulsion
+image distance
+harmonic
+harmonic motion
+immerse
+joule
+joulemeter
+harmonic oscillation
+immersion heater
+head-on collision
+biochemistry
+junction
+heat
+impedance
+junction diode
+impulse
+junction transistor
+impurity
+heat absorber
+in focus
+heat absorption
+in parallel
+heat capacity
+in phase
+heat conduction
+in series
+heat exchange
+incident ray
+heat flow
+incident wavefront
+heat gain
+inclined plane
+heat insulation
+incoherent
+heat loss
+incompressible fluid
+heat proof
+indicator
+heat pump
+heat radiation
+indirectly heated cathode
+heat reservoir
+induced charge
+Kelvin
+heat sink
+induced current
+Kelvin temperature scale
+heat transfer
+induced e. m. f.
+Kepler's law
+heater

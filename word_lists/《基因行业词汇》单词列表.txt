@@ -1,0 +1,140 @@
+adenosine deaminase deficiency (ADA)
+adenovirus
+Alagille syndrome
+allele
+amino acids
+animal model
+antibody
+apoptosis
+ataxia-telangiectasia
+autosomal dominant
+autosome
+bacterial artificial chromosome (BAC)
+base pair
+birth defect
+bone marrow transplantation
+cancer
+candidate gene
+carcinoma
+cDNA library
+cell
+chromosome
+cloning
+codon
+congenital
+contig
+cystic fibrosis
+cytogenetic map
+deletion
+deoxyribonucleic acid (DNA)
+diabetes mellitus
+diploid
+DNA replication
+DNA sequencing
+dominant
+double helix
+duplication
+electrophoresis
+enzyme
+exon
+familial Mediterranean fever
+fluorescence in situ hybridization (FISH)
+Fragile X syndrome
+prior
+gene amplification
+gene expression
+gene mapping
+gene pool
+gene therapy
+gene transfer
+genetic code (ATGC)
+genetic counseling
+genetic map
+genetic marker
+genetic screening
+genome
+genotype
+germ line
+haploid
+hematopoietic stem cell
+hemophilia
+heterozygous
+highly conserved sequence
+Hirschsprung's disease
+homozygous
+human artificial chromosome (HAC)
+Human Genome Project
+human immunodeficiency virus (HIV)/
+acquired immunodeficiency syndrome (AIDS)
+Huntington's disease
+HYBRIDIZATION
+immunotherapy
+in situhybridization
+inherited
+insertion
+intellectual property rights
+knockout
+leukemia
+library
+linkage
+locus
+LOD score
+lymphocyte
+malformation
+mapping
+marker
+melanoma
+Mendel
+mendelian inheritance
+messenger RNA (mRNA)
+metaphase
+microarray technology
+mitochondrial DNA
+monosomy
+mouse model
+multiple endocrine neoplasia
+mutation
+neurofibromatosis
+Niemann-Pick disease
+Northern blot
+nucleotide
+nucleus
+oligo
+oncogene
+Parkinson's disease
+patent
+pedigree
+phenotype
+physical map
+polydactyly
+polymerase chain reaction (PCR)
+polymorphism
+positional cloning
+primary immunodeficiency
+primer
+pronucleus
+prostate cancer
+protein
+recessive
+retrovirus
+ribonucleic acid (RNA)
+ribosome
+sequence-tagged site (STS)
+severe combined immunodeficiency (SCID)
+sex chromosome
+sex-linked
+somatic cells
+Southern blot
+spectral karyotype (SKY)
+substitution
+suicide gene
+syndrome
+Technology transfer
+transgenic
+translocation
+trisomy
+tumor suppressor gene
+vector
+Western blot
+Wolfram syndrome
+yeast artificial chromosome (YAC)

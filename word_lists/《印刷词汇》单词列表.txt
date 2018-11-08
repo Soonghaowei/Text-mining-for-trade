@@ -1,0 +1,241 @@
+set-off
+print through
+printing machinery
+plate cylinder
+impression cylinder
+blanket cylinder
+prting material
+printing stock
+printing ink
+printing plate
+duplicate plate
+text composition
+line space
+type area
+type page
+margins
+head margin
+foot margin
+proof-reading
+form correcting
+type composition
+printing type
+space
+point system
+type size
+type matrix
+type casting
+typesetting
+page make-up
+matrix grid
+picture original
+reflection copy
+transparent copy
+line copy
+color transparency
+color negative
+object original
+reproduction
+basic color
+primary colors
+complementary color
+additive process
+subtractive process
+magenta
+yellow
+color separation
+process camera
+electronic scanning
+picture breakdown
+screening
+electronic screening
+descreening
+screen
+screen dot
+picture element
+continuous tone
+halftone
+halftone positive
+halftone negative
+color correction
+retouching
+masking
+mask
+color density
+contrast
+gradation
+tone
+tone value
+exposure
+development
+fixing
+copy
+printing down
+prepress proofing
+color rendition
+color atlas
+color patch
+controlstrip
+transmission
+opacity
+moire
+coating
+relief printing
+letterset
+flexography
+type form
+paper matrix
+stereotype
+thin stereotype
+etching
+powderless etching
+line etching
+halftone etching
+rubber plate
+flexographic plate
+letterpress machine
+platen press
+anilox roller
+letterpress makeready
+planographic printing
+stone lithography
+direct lithography
+collotype printing
+metal decorating
+paper seasoning
+lithographic plate
+graining
+presensitized plate
+wipe-on plate
+dampening
+fountain solution
+blanket
+rolling
+sheet feeder
+delivery unit
+inking unit
+ink vibrator
+dampening system
+dampening vibrator
+color sequence
+streaks
+filling in
+image weakening
+intaglio printing
+ink cell
+wall
+photogravure
+carbon tissue
+transfer
+halftone gravure
+indirect gravure
+gravure press
+porous printing
+screen printing
+stencil printing
+screen stencil
+screen plate
+screen frame
+screen fabric
+screen resilience
+meshcount
+stretching machine
+coating trough
+squeegee
+electrostatic printing
+foam printing
+decalcomania
+ink-jet printing
+braille printing
+holographic printing
+transfer printing
+inscription rubbing
+bookbinding
+thread sewing
+saddle stitching
+bookblock
+signature
+title page
+gutter
+cutting edges
+cover
+book case
+jacket
+bookblock processing
+folding
+collating
+rounding
+backing
+guillotine
+folding machine
+collating machine
+wrapping machine
+decorative finishing
+die cutting
+creasing
+varnishing
+laminating
+bronzing
+foil-stamping
+perforating
+bleed
+full bleed
+server
+color gamut
+color separation
+color space
+crop marks
+density
+filmsetter
+gray balance
+printing
+printing stock
+positive image
+negative image
+text composition
+make-up
+printing down
+post-press finishing
+sheet piling
+color ream
+impression
+paper seasoning
+sheet feeder
+gauge
+front lay
+side mark
+sheet transfer
+transfer gripper
+feed edge
+delivery unit
+color batch
+fountain solution
+solid
+dampening
+streaks
+image weakening
+scumming
+build-up
+rubbing off
+ink picks
+ghosting
+set-off
+print through
+inking unit
+ink vibrator
+color atlas
+gripper
+blanket
+rolling
+bearer
+printing pressure
+nip
+plate cylinder
+blanket cylinder
+impression cylinder
+optical density
+color density
+tone
+tone value
+control strip
+moire

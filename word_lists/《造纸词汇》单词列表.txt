@@ -1,0 +1,380 @@
+tissue
+sheet
+flow sheet
+untrimmed width
+machine width
+paper web
+paper
+paperboard
+pulp
+pulp preparing
+perfect stuff
+chemical pulp
+ground  wood
+chest
+trough
+vat
+clogging
+ejects
+rejections
+junk
+tailings
+junk box
+shive
+lump
+fiber chumps
+knot
+pulper
+winding
+rewinder
+unreeling
+unwinder
+unwind roll
+parents roll
+natural browns
+papermaking
+abietene acid
+absolute dry
+bone dry
+oven dry
+air dry
+absolute humidity
+accepts
+mechanics
+electrics
+fitter
+attach
+dismountable
+dismantle
+elevation
+pronze
+reducer
+gear reducer
+worm gear
+contamination
+acid fastness
+acid resistance
+additive
+aging
+yellowing
+artificial aging
+air doctor
+analytical balance
+angle coder
+pulper
+arc foil
+ash
+aspect ratio
+assembly
+average fiber length
+dryer
+back liner
+back side
+fore side
+back stand
+back tender
+white water
+baffle
+bale opener
+beater
+beating degree
+grammage
+specific gravity
+bend strength
+bending chip
+bending stiffness
+bevel gear
+tooth
+heel
+toe
+mate
+mating gear
+carbide-tipped
+switchgear
+limit switch
+thermal relay
+oil ring
+retaining plate
+retaining screw
+splash ring
+bearing
+plane bearing
+roller bearing
+thrust bearing
+bearing cap
+extension shaft
+hollow shaft
+layshaft
+gear unit
+spacer
+shink ring
+clavette
+supporting plate
+end cap
+dowel pin
+cover screw
+eye bolt
+turning package
+rubber buffer
+attachment housing
+retainer ring
+bibliometer
+black liquor
+blotting capacity
+corrugated board
+paperboard
+liner board
+lining board
+packaging board
+packing board
+spreader roll
+bowl
+break
+break resistance
+breaking length
+breast board
+breast box
+breast roll
+brightness
+broke
+waste
+brooming
+bulge resistance
+solo
+burst
+bursting tester
+cady test
+calender
+calender bowl
+calender section
+calender train
+calender stack
+thickness
+caliper rule
+capital repair
+maintenance
+preventive maintenance
+corrective maintenance
+downtime
+fillet
+carrier drum
+carrier roll
+coating
+coator
+coatings
+centriffler
+centrifiner
+centri-sorter
+chain conveyer
+check
+check valve
+check damper
+check plate
+aprons
+chuck
+chute
+clear cutting
+clearance
+clutch
+coupling
+coarse screen
+fine screen
+jog strainer
+vibrating screen
+hole
+ejects
+coffer dam
+conditioner
+conditioning
+cooling drum
+shim
+flinger
+spacing
+core
+corrugated roll
+corrugating
+corrugator
+corrugator roll
+couch
+couch break
+couch felt
+couch pit
+pit
+couch squirt
+coucher
+cutter
+cylinder
+dry cylinder
+damping roll
+rider roll
+dancing roll
+threading
+guide roll
+dandy roll
+dead knife
+thickener
+deckle
+feather edge
+intermittently
+defibration
+deflake
+knead
+flank
+defoam
+dewater
+diaphanometer
+digesting
+distributor roll
+evener plate
+perforation
+perforated plate
+perforator
+holy roll
+draping
+driven roll
+driven shaft
+dry line
+dryer part
+emptying valve
+eject valve
+entering reel
+enriched water
+cloudy filtrate
+clear filtrate
+filtrate valve
+discharge shower
+sliuing shower
+STRAINER
+filter
+header pipe
+main pipe
+bayonet socket
+fab-foil
+foil
+pumping foil
+thrower foil
+facing wire
+inner wire
+fast beating
+wet beating
+feeder
+feedback
+feedforward
+felt
+felt side
+felt stretcher
+pulp content
+furnish
+fiber pick
+uniform
+pickroll
+pick up
+picker roll
+filler
+filler retention
+finished roll
+finished weight
+finishing
+flow approach
+flowbox
+flow sheet
+flow control
+flow evener
+flow meter
+hygrometer
+kinenoneter
+manometer
+pressure meter
+micrometer
+pathmeter
+viscosimeter
+flow sensor
+flow indicator
+flying splice
+flying paster
+fold
+folding strength
+folding resistance
+foot screw
+lock screw
+loctite?
+eye screw
+allen screw
+set screw
+screw feeder
+disperser
+local
+pivot-point
+forming box
+suction box
+forming roll
+forming sector
+forming shoe
+fourdrinier table
+fourdrinier
+fractionator
+fractionation
+free run
+idle
+test run
+free water
+fresh water
+gloss
+grooved roll
+hatch
+head tank
+housing
+impact tester
+ink absorbency
+kraft
+bleach
+laminator
+leading roll
+leading strips
+licking
+lick-up felt
+jack
+lifting device
+cross direction
+cross-machine
+lowerator
+lubrication
+wire pit
+manostat
+mesh
+monitor
+nip
+nip roll
+nominal
+rated
+optimum
+paddle
+padding
+paper core
+paper roll
+pin adhesion
+pneumatic
+hydraulic
+ventilation
+procedure
+process
+profile
+reel
+refine
+refiner
+adjust
+rotor
+filling
+wear plate
+stator
+ripper
+slitter
+roll set
+separator
+saveall
+trimmings
+strip
+strips
+pulley
+stepless control
+smoothness

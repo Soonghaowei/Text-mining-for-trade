@@ -1,0 +1,331 @@
+baffle plate
+cover plate
+male die
+female die
+groove punch
+bushing block
+insert
+capability
+paramter
+factor
+phosphate
+viscosity
+alkalidipping
+main manifold
+bezel?
+blanking
+dejecting
+demagnetization
+heat dissipation
+rack
+degrease
+rinse
+alkaline etch
+desmut
+chromate
+anodize
+seal
+revision
+good products
+scraped products
+defective products
+finished products
+disposed products
+barcode
+flow chart
+assembly
+stamping
+molding
+buffer
+coordinate
+auxiliary fuction
+poly-line
+heater band
+thermocouple
+sand blasting
+grit?
+derusting machine
+degate
+dryer
+induction
+induction light
+response
+ram
+edge finder
+concave
+convex
+short
+Nick
+speck
+shine
+splay
+gas mark
+delamination
+cold slug
+blush
+gouge
+satin texture
+witness line
+patent
+grit
+granule
+grit maker
+cushion
+magnalium
+magnesium
+metal plate
+lathe
+mill
+plane
+grind
+drill
+boring
+blister
+fillet
+cam driver
+shank
+crank shaft
+augular offset
+velocity
+production tempo
+torque
+spline
+quenching
+tempering
+annealing
+carbonization
+alloy
+bracket
+liaison
+volatile
+resistance
+ion
+titrator
+beacon
+coolant
+crusher
+plain die
+pierce die
+forming die
+gang dies
+shearing die
+riveting die
+pierce
+forming
+draw hole
+bending
+trim
+emboss
+dome
+semi-shearing
+stamp mark
+deburr or coin
+punch riveting
+side stretch
+reel stretch
+groove
+blanking
+stamp letter
+shearing
+tick-mark nearside
+tick-mark farside
+extension dwg
+procedure dwg
+material
+material thickness
+factor
+upward
+downward
+die height
+burr
+gap
+weight
+dowel pin
+coil spring
+lifter pin
+pin
+guide pin
+wire spring
+stop screw
+located pin
+outer bush
+top plate
+top block
+punch set
+punch pad
+punch holder
+stripper pad
+up stripper
+male die
+feature die
+female die
+upper plate
+lower plate
+die pad
+die holder
+die set
+bottom block
+bottom plate
+stripping plate
+outer stripper
+inner stripper
+lower stripper
+punch
+insert
+deburring punch
+groove punch
+stamped punch
+round punch
+bending block
+roller
+baffle plate
+located block
+guide plate
+sliding block
+distortion
+over dimension
+under dimension
+flashing
+discoloration
+off color
+flow rate
+viscous
+high flow
+low flow
+sticky
+mold release
+antioxidant
+heat stabilizer
+colorant
+pigment
+dye
+gate
+eracuretun
+lever arm
+spure sperader
+stop pin
+buffle
+spring rod
+pin
+dowel pin
+ball catch
+burn mark
+burr
+camber
+cell
+center buckle
+check
+checking
+chipping
+clamp-off
+collapse
+color mottle
+corrosion
+crack
+crazing
+crazing
+deformation
+edge
+edge crack
+fading
+filler speak
+fissure
+flange wrinkle
+flaw
+flow mark
+galling
+glazing
+gloss
+grease pits
+grinding defect
+haircrack
+haze
+incrustation
+indentation
+internal porosity
+mismatch
+mottle
+necking
+Nick
+orange peel
+overflow
+peeling
+pit
+pitting corrosion
+plate mark
+pock
+pock mark
+resin streak
+resin wear
+riding
+sagging
+saponification
+scar
+scrap
+scrap jam
+scratch
+scuffing
+seam
+shock line
+short shot
+shrinkage pool
+sink mark
+skin inclusion
+straightening
+streak
+surface check
+surface roughening
+surging
+sweat out
+torsion
+warpage
+waviness
+webbing
+weld mark
+whitening
+wrinkle
+type
+group
+quality
+prepared by
+notes
+physical inventory
+cause analysis
+raw materials
+materials
+disposed goods
+warehouse
+on way location
+oversea location
+coil stock
+sheet stock
+tolerance
+score
+cam block
+pilot
+trim
+pierce
+drag form
+slug hole
+feature die
+expansion dwg
+radius
+shim(wedge)
+set screw
+form block
+stop pin
+shape punch
+active plate
+baffle plate
+cover plate
+male die
+female die
+groove punch
+insert
+club car
+capability
+factor
+phosphate
+viscosity
+alkalidipping
+main manifold

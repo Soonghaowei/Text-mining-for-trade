@@ -1,0 +1,106 @@
+bust width
+front cross
+back cross
+waist width
+bottom
+shoulder across
+small shoulder
+c/b length
+sleeve length
+sleeve opening
+cuff width
+neck width
+sleeve crown height
+upper arm width
+collar length
+front neck drop
+upper collar height
+collar band height
+collar point
+collar point spread
+placket width
+pocket high point
+waist
+bulk
+high hip
+thigh
+leg opening
+front rise
+back rise
+inseam length
+outseam length
+waistband
+knee
+sweep
+fly width
+fly length
+beltloop
+Indigo chambray
+Rayon cloth flocking
+PVC flocking
+Knitting cloth flocking
+Claimond veins
+Down pile making
+velveteen
+micro suede
+Jeans flocking
+Nylon taffeta
+Nylon seersucker taffeta
+plain flocking
+flocking
+Embossing flocking
+Leather imitation flocking
+Embossing jeans flocking
+Angora cachmere overcoating
+double-faced woolen goods
+cut velvet
+over coating
+costume tweed
+lycra woolen goods
+Nylon taslon
+N/Taslon ripstop
+polyester peach skin
+polyester taffeta
+polyester pongee
+Micro fiber
+Nylon-cotton fabric (plain)
+Nylon-cotton-cotton fabric(double weft)
+Nylon-cotton fabric
+Nylon-cotton fabric (twill)
+solid velvet
+Rib fleece velvet
+melange velvet
+ginning velvet
+pellet fleece velvet
+linen/cotton blended fabric
+linen/cotton mixed fabric
+solid terry
+fleece in one side
+solid fleece
+fleece
+color-stripes single jersey
+T/R bengaline
+T/C solid check fabric
+Micro suede with spandex
+T/R Micro suede
+100%polyester micro suede bounding with polar fleece
+100% polyester bounding with knitting micro suede fabric
+100% polyester micro suede bounding with lamb fur
+cire satine
+Full dull nylon taffeta
+semi-dull nylon taffeta
+Trilobal nylon
+Full dull nylon taslan
+full dull nylon oxford
+Nylon rip-stop
+Taslan rip-stop
+Full dull Micro polyester pongee
+Full dull polyester pongee
+polyester pongee rip-stop
+Full dull polyester peach
+Big twill polyester peach
+poly/nylon peach
+polyester taffeta rip-stop
+polyester honey taslan
+Full dull poly textured oxford
+Nylon/polyester inter-woven peach

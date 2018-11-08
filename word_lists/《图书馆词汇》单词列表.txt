@@ -1,0 +1,221 @@
+library national
+library municipal
+roller shelf
+book carrier
+loan
+microfilm
+alphabetical
+reference
+journal
+killer
+periodical
+Weekly
+monthly
+quarterly
+publication
+issue
+textbook
+novel
+fiction
+nonfiction
+row
+author
+check out
+brochure
+explore
+acquaint
+reference stacks
+classification
+charge out
+wardrobe
+fine
+out on loan
+in Circulation
+out circulation
+not for circulation
+circulation desk
+Inter-library loan
+turnover of books
+date slip
+call slip
+bibliography
+admission card
+catalogue card
+title card
+author card
+classified card
+closed reserve
+acquisition department
+associate librarian
+accession number
+accessioning
+admission card
+annual circulation
+alphabetical index
+author index
+audio-visual book
+audio visual studio
+author
+author catalogue
+author card
+alphabetical
+available
+acquaint
+book
+book pocket
+book card
+book reservation
+book case
+bound volume
+borrow
+briefs
+brochure
+bibliography
+back cover
+back issue
+book carrier
+book lift
+children’s library
+circulation department
+cataloguing department
+classifying
+classification
+classified catalogue
+classified index
+catalog
+category
+catalogue
+catalogue room
+catalogue card
+cataloguing
+cataloguer
+card
+card catalogue
+catalogue card
+classified card
+card catalogue cabinet
+circulation desk
+closed shelves
+call number
+current issue
+cassette tape recorder
+copier
+copyright page
+contents
+chief librarian
+exhibition room
+exhibit rack
+efficient
+explore
+front cover
+flyleaf
+fiction
+fine
+guide card
+gift
+Inter-library loan
+international loan
+index
+information
+information material
+information media
+information retrieval
+information storage
+information science
+identification
+issue
+interlibrary service
+journal
+keyword
+library national
+library municipal
+library stamp
+ledger catalogue
+loose-leaf catalogue
+label
+loan
+library card
+microcard
+microfilm
+microfiche
+microprint
+magazine binder
+missing issue
+microfilm reader
+miniature edition
+machine-readable catalogue
+killer
+monthly
+newspaper
+newspaper reading room
+newspaper file
+newspaper rack
+newspaper clipping
+non-book materials
+non-print media
+network
+novel
+nonfiction
+not for circulation
+open shelves
+overdue notice
+opening hours
+out on loan
+out circulation
+punched card
+public library
+periodical reading room
+periodical record card
+periodica rack
+periodical index
+projector
+pamphlet
+pocket book
+punched card
+process
+periodical
+publication
+periodical
+quarterly
+re-cataloguing
+reader’s card
+renewal
+roller shelf
+reading room
+row
+reference stacks
+return in time
+reserve
+retrieval
+rare book
+regular card
+reference
+school library
+subject card
+stack room
+shelving
+subject catalogue
+scroll rack
+slide projector
+sample copy
+secondhand book
+supplementary issue
+subject index
+sheet
+title card
+title catalogue
+turnover of books
+title index
+tape recorder
+TV set
+title page
+terminal
+terminal user
+thesaurus
+title card
+temporary card
+textbook
+turnover of books
+unique copy
+video tape recorder
+Weekly

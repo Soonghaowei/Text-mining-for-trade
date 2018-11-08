@@ -1,0 +1,380 @@
+mining
+metallurgy
+process metallurgy
+extractive metallurgy
+chemical metallurgy
+physical metallurgy
+metallkunde
+nonferrous metallurgy
+vacuum metallurgy
+plasma metallurgy
+microbial metallurgy
+injection metallurgy
+ladle metallurgy
+secondary metallurgy
+mechanical metallurgy
+welding metallurgy
+powder metallurgy
+foundry
+pyrometallurgy
+hydrometallurgy
+electrometallurgy
+chlorine metallurgy
+mining technology
+valuable mineral
+mineral deposit
+mine field
+mine
+surface mine
+underground mine
+shaft
+mine capacity
+mine life
+mine construction
+industrial ore
+extracted ore
+orebody
+vein
+ore
+ore grade
+open circuit
+closed circuit
+flowsheet
+block flowsheet
+yield
+recovery
+mineral
+particle size
+Coarse particle
+fine particle
+ultrafine particle
+coarse fraction
+fine fraction
+mesh
+crude
+concentrate
+rough concentrate
+bulk concentrate
+final concentrate
+tailings
+comminution
+crushing
+grinding
+agglomeration
+screening
+classification
+concentration
+separation
+hand sorting
+flotation
+native copper
+bauxite
+cryolite
+Magnetite
+Hematite
+martite
+taconite
+limonite
+siderite
+specularite
+psilomelane
+Pyrolusite
+chromite
+pyrite
+ilmennite
+rutile
+Fluorite
+kaolinite
+magnesite
+barite
+graphite
+quartz
+calcite
+limestone
+dolomite
+mica
+gypsum
+borax
+asbestos
+serpentine
+stage crushing
+primary crushing
+secondary crushing
+fine crushing
+roll crusher
+pulverizer
+vibrating screen
+screen cloth
+screen opening
+oversize
+undersize
+coarse grinding
+fine grinding
+ball mill
+liner
+classifier
+free setting
+sedimentation
+lime
+pine oil
+sodium sulfide
+filtration
+filter
+feeding
+feeder
+system
+extensive property
+intensive property
+process
+isothermal process
+isobaric process
+isochoric process
+adiabatic process
+equilibrium
+metastable equilibrium
+thermodynamic function
+standard state
+enthalpy
+entropy
+gibbs energy
+chemical potential
+thermochemistry
+heat effect
+heat capacity
+exothermic reaction
+endothermic reaction
+phase rule
+phase diagram
+liquidus
+solidus
+eutectic point
+lever rule
+solution
+solute
+solvent
+solid solution
+metallurgical melt
+metal melt
+slag
+ideal solution
+real solution
+regular solution
+activity
+activity coefficient
+equilibrium constant
+basicity of slag
+optical basicity
+acid oxide
+basicoxide
+amphoteric
+foaming slag
+desiliconization
+demanganization
+microkinetics
+chemical kinetics
+reaction path
+reaction mechanism
+elementary reaction
+parallel
+chain reaction
+overall reaction
+reaction rate
+reaction order
+collision theory
+activation energy
+half-life
+macrokinetics
+mass transfer
+heat transfer
+laminar flow
+turbulent flow
+gas bubble
+bubbling
+jet
+liquid droplet
+viscosity
+boundary layer
+flow rate
+flux
+diffusion
+heat conduction
+heat convection
+natural convection
+forced convection
+heat radiation
+thermal conductivity
+reynolds number
+fiexed bed
+packed bed
+moving bed
+fluidized bed
+mixing time
+catalysis
+catalyst
+surface energy
+surface tension
+interfacial energy
+interfacial tension
+wetting
+absorption
+absorption
+cation
+anion
+conductance
+conductivity
+resistance
+electrode
+cathode
+anode
+electroplating
+solid electrolyte
+stablized zirconia
+oxygen sensor
+silicon sensor
+oxygen probe
+silicon probe
+thermocouple
+calorimeter
+thermobalance
+thermal analysis
+thermogravimetry
+molecular sieve
+coking
+coal blending test
+coking coal
+gas coal
+fat coal
+lean coal
+coke oven
+oven chamber
+coke cake
+coking time
+cycle time
+coal charging
+stamp charging
+coke pushing
+coke quenching
+coke wharf
+larry car
+pushing machine
+coke guide
+quenching car
+Coke
+metallurgical coke
+foundry coke
+coal tar
+crude benzol
+benzene
+toluene
+xylene
+pitch coke
+needle coke
+fireclay
+kaolin
+flint clay
+soft clay
+pot clay
+montmorillonite
+pyrophyllite
+bentonite
+tridymite
+cristobalite
+sandstone
+Firestone
+mullite
+alumina
+sintered alumina
+fused alumina
+corundum
+andalusite
+kyanite
+sillimanite
+olivine
+periclase
+magnesia
+spinel
+vermiculite
+perlite
+silicon carbide
+silicon nitride
+boron nitride
+chamotte
+grog
+friction press
+hydraulic press
+tunnel kiln
+rotary kiln
+refractory brick
+sillimanite brick
+mullite brick
+corundum brick
+nozzle brick
+stopper
+amorphous carbon
+diamond
+carbon black
+petroleum pitch
+petroleum coke
+graphitization
+carbon block
+carbon electrode
+soderberg electrode
+carbon brush
+ferroalloy
+ferrosilicon
+calcium silicon
+silicon metal
+ferromangnanese
+silicochromium
+chromium metal
+ferrotunsten
+ferromolybdenum
+ferrotitanium
+ferroboron
+ferroniobium
+ferrophosphorus
+ferronickel
+ferrozirconium
+silicozirconium
+nucleater
+incubater
+nodulizer
+vermiculizer
+master alloy
+sinter
+briquette
+pellet
+goethite
+lump ore
+ore fines
+ore blending
+return fines
+ore stockyard
+ore stocker
+ore reclaimer
+flux
+slaked lime
+quickened lime
+organic binder
+sinter mixture
+sintering
+sintering pan
+sintering pot
+sinter cooler
+balling drum
+balling disc
+wustite
+fayalite
+hercynite
+ferrogehlenite
+calcium diferrite
+calcium ferrite
+dicalcium ferrite
+knebelite
+kirschsteinite
+hedenbergite
+andradite
+anorthite
+monticellite
+perovskite
+wollastonite

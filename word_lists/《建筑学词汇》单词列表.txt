@@ -1,0 +1,380 @@
+tunnel bore machine
+top height
+bench
+invert
+new Austrian tunnel method
+temporary invert
+cut and cover method
+alternative
+bottom
+bent
+clearance
+each way
+tensile strength of steel
+yield strength of steel
+high strength bolt
+high tensile strand
+high tensile wire
+inner face
+near face
+outside face
+spiral
+stirrup
+straight
+top and bottom
+water cement ratio
+weld wire fence
+ground water level
+highest high water level
+high water level
+highway
+lower water level
+mean sea level
+mean water level
+normal water level
+preplair concrete
+reinforced concrete
+reinforced concrete pipe
+right of way
+rail road
+super elevation
+sea level
+steel reinforced concrete
+stainless steel pipe
+station
+water level
+warning water level
+catch basin
+center line
+center to center
+column
+concrete
+concrete masonry unit
+control joint
+control point
+diameter
+dimension
+down
+drawings
+each
+elevation
+elevator
+equivalent
+expansion
+expansion joint
+fire hydrant cabinet
+flash
+floor
+galvanized
+gauge
+glass
+ground level
+gypsum
+sleigh
+masonry
+radius
+road
+roof drainage
+room
+south
+speaker
+specification
+square
+stainless steel
+stair
+station
+station control room
+steel
+storage
+street
+suspended
+system
+telephone
+telephone control
+television
+terrazzo
+thickness
+typical
+under ground
+up
+ventilation
+vertical
+water closet
+weight
+west
+with
+without
+wood
+working point
+comprehensive analysis and judgement
+transformer
+loose core
+aisle
+three phase capacitance
+core rod
+development permit
+land use rezoning plan
+urban renewal plan
+urban design
+architecture design
+geotechnical engineering
+site investigation
+in-situ and laboratory test
+foundation design
+soil and material
+structural engineering
+industrial plant
+equipment foundations
+transportation engineering
+transportation planning
+hydraulic and harbor engineering
+construction management
+construction supervision
+construction plan
+construction specifications
+environmental engineering
+environment impact assessment
+environmental monitoring
+groundwater monitoring
+wastewater treatment plant
+sewage system
+noise and vibration
+waste incinerator
+common ducts
+economic and efficiency analysis
+financial evaluation
+air supply
+current attenuation
+time delay
+quenching of arc
+molding
+steel seal
+quality analysis
+principal
+examine and approve
+repair welding
+compression pump
+welded flange
+reinforcement measure
+verify
+boost pressure
+off scale reading
+full-scale value
+blind plate
+pressure meter
+intensity
+visiual inspection
+formula
+pipeline
+leakproofness
+conductive paste
+compression joint
+overground
+buried depth
+earth wire
+description
+junction box
+earthing deivce
+across
+protection tube
+plastic tape
+preservative treatment
+earth resistance
+lightning protection
+comply with
+down lead
+overlap welding
+lightning rod
+zinc coating
+resistance
+power distribution equipment
+centralized
+cascade connection
+main line
+paratactic
+solely
+machine set
+cable laying
+cable channel
+trunk line
+exfoliation
+aluminum powder
+support point
+disassembly and assembly
+smooth
+electric pressure
+onoff
+terminals
+remaining
+notice plate
+statistical forms
+cable testing bridge
+electric machine
+relative humidity
+sundries
+withstand voltage test
+ligthing paraphernalia
+nameplate
+acceptance specification
+wire splice
+test run
+incoming line
+electrified
+jigger rotor
+secondary circuit
+center line
+contactor
+power distribution
+whole set
+floor slab
+spare part
+packing
+equipment
+conducting wire
+fall off
+specification
+electrical appliance
+line breaker
+mechanical interlocking
+collision
+portable
+filling water test
+foundation ring
+vacuum degree leak test
+oil whiting test
+foundation settlement
+datum mark
+stability test
+outlet valve
+angle steel
+component part
+mechanical damage
+shrinkage cavity
+enfoldment
+carbon steel tube
+nominal diameter
+embedded part
+axonometric drawing
+arrangement diagram
+oxyacetylene gas cutting
+low alloy steel
+heat affected area
+polish
+grinding wheel
+plasma panel
+unevenness
+necking down
+head face
+dip deviation
+external diameter
+grinding wheel
+pipe casting
+single line drawing
+parallel and level
+two terminals
+buckle
+periphery
+additional stress
+axiality
+parallelism
+stochastic
+allowable variation
+verticality
+levelness
+blind plate
+argon arc welding
+spacing
+period of validity
+take charge of undertake
+welding rod
+carbon steel
+welding wire
+melting
+steel wire
+drying
+ablution
+system
+welding procedure
+corresponding
+manual electric arc welding
+render
+power source
+alternating current
+weldment
+pipe thickness
+butt weld
+workpiece
+splash
+smirch
+oil stain
+smooth file
+milling cutter
+oxide film
+cotton fibre
+acetone
+sulfur
+welding flux
+steel plate
+longitudinal weld longitudinal seam
+shell ring
+end socket
+strength test
+arc starting
+draught
+fusion
+reverse side
+integral
+block up
+weld bond
+high frequency
+welding torch
+registration equipment
+solid waste handling equipment
+food cooking equipment
+ventilation equipment
+disposal equipment
+unit kitchens
+laboratory equipment
+hydraulic elevators
+elevator equipment
+escalatorss and moving walks
+lifts
+building services piping
+pipes and tubes
+valves
+gauges
+pumps
+fire protection sprinkler systems
+fire extinguishing systems
+plumbing fixtures
+shower doors
+toilet
+domestic water filtration devices
+domestic water heaters
+heating boilers and accessories
+refrigeration equipment
+refrigeration compressors
+heat exchangers
+central air conditioning equipment
+humidity control equipment
+unit heaters
+floor heating
+ducts
+dampers
+air outlets
+raceways and boxes
+wiring devices
+electrical power
+motors generators
+transformers
+transmission and distribution
+low-voltage distribution
+low-voltage switchgear
+low-voltage distribution
+lighting
+lamps
+special systems
+communications
+electronic scoreboards
+communications circuits
+controls

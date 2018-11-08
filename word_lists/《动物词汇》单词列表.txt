@@ -1,0 +1,313 @@
+adder
+viper
+albatross
+alligator
+alpaca
+anchovy
+anglerfish
+anopheles
+ant
+anteater
+antilope
+armadillo
+ass
+badger
+bald eagle
+bat
+bear
+beaver
+bedbug
+bee
+beetle
+Billy
+bird of paradise
+bison
+bitch
+blackbird
+boa
+boar
+brood
+buck
+buffalo
+bull
+bullfrog
+steer
+bumble bee
+butterfly
+cabbage butterfly
+caiman
+calf
+camel
+canary
+carp
+cat
+caterpillar
+catta
+cattle
+centipede
+chaffinch
+chameleon
+chick
+chicken
+joyful
+chinchilla
+chub
+cicada
+clam
+cob
+cobra
+cock
+cockatoo
+cockle
+cockroach
+cod
+colt
+condor
+copperhead
+coral snake
+cormorant
+cow
+crab
+crayfish
+cricket
+strongly
+crow
+crucian
+cuckoo
+cuttloefish
+cygnet
+deer
+dog
+dolphin
+detective
+ass
+dormouse
+dove
+dragonfly
+dromedary
+drone
+duck
+platypus
+eagle
+eel
+elephant
+ewe
+ferret
+flea
+flock
+fly
+foal
+fox
+frog
+gaggle
+gander
+gannet
+gavial
+gazelle
+gelding
+giant salamander
+gibbon
+gilt
+giraffe
+glowworm
+firefly
+goat
+golden eagle
+Goldfinch
+goose
+gopher
+gorilla
+gosling
+grass snake
+grasshopper
+grouse
+guanaco
+guinea pig
+guinea
+gull
+Hake
+hare
+hawk
+hedgehog
+heifer
+hen
+herd
+hermit crab
+heron
+herring
+hinny
+hippopotamus
+hog
+horse
+horsefly
+gadfly
+hummingbird
+hyena
+iguana
+Japanese beetle
+jenny ass
+kangaroo
+kid
+kingfisher
+kite
+kitten
+Kitty
+pussy
+koala
+buyer
+lamb
+large prawn
+lark
+leopard
+lion
+lizard
+llama
+lobster
+locust
+louse
+lynx
+macaw
+mackerel
+magpie
+male ant
+mallard
+mare
+marmot
+moccasin
+mole
+monkey
+mosquito
+moth
+mouse
+mule
+mullet
+mussel
+Mustang
+mutton
+nanny
+nightingale
+Norway lobster
+octopus
+orangutan
+ostrich
+otter
+owl
+ox
+oyster
+pale clouded yellow
+panther
+parakeet
+parrot
+partridge
+peacock
+pelican
+penguin
+perch
+pheasant
+pig
+pigeon
+piglet
+pike
+plaice
+plover
+pony
+porcupine
+porpoise
+poult
+prawn
+praying mantis
+ptarmigan
+pup
+python
+quail
+queen ant
+queen bee
+rabbit
+ram
+rat
+rattlesnake
+ray
+red mullet
+reindeer
+rhinoceros
+robin
+sailfish
+salamander
+salmon
+sardine
+scallop
+scops owl
+scorpion
+sea bream
+sea horse
+sea turtle
+sea urchin
+seal
+shark
+sheep
+shrimp
+silkworm moth
+silverfish
+Skipjack
+sloth
+snail
+snake
+snipe
+sole
+sow
+sparrow
+spider
+spider crab
+spiny lobster
+squid
+squirrel
+stallion
+Starling
+stink bug
+stork
+sturgeon
+sulphur butterfly
+sunfish
+swallow
+swallowtail
+swan
+swordfish
+tabby
+tarantula
+tarpon
+teal
+termite
+thoroughbred
+thrush
+tiger
+toad
+Tom
+tomcat
+tortoise
+trout
+tuatara
+tunny
+turbot
+turkey
+turtle
+turtle dove
+vicuna
+vole
+vulture
+wall lizard
+walrus
+wasp
+water buffalo
+weasel
+whale
+white ant
+whitethroat
+whiting
+wiggler
+wildcat
+wolf
+woodcock
+woodpecker
+worker ant
+yak
+zebra

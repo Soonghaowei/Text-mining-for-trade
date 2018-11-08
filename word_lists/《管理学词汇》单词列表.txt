@@ -1,0 +1,270 @@
+objective
+group objective
+internal environment
+external environment
+planning
+organizing
+staffing
+leading
+controlling
+process
+principle
+technique
+manager
+general manager
+administrator
+supervisor
+enterprise
+business
+industry
+company
+effectiveness
+efficiency
+entrepreneur
+power
+authority
+responsibility
+scientific management
+behavior science
+productivity
+motivate
+motive
+law
+regulation
+economic system
+managerial function
+product
+service
+profit
+satisfaction
+affiliation
+esteem
+self-actualization
+human input
+surplus
+income
+cupboard
+capital goods
+machinery
+equipment
+building
+inventory
+human relation
+psychology
+attitude
+pressure
+conflict
+recruit
+appraisal
+select
+train
+compensation
+coordinate
+performance
+merit system
+behavior
+subordinate
+deviation
+inspection record
+sales volume
+advanced technology
+customer service
+strategy
+structure
+primacy
+pervasiveness
+fear
+resentment
+morale
+layoff
+wholesale
+retail
+procedure
+rule
+program
+budget
+synergy
+conglomerate
+resource
+acquisition
+growth goal
+proprietary product
+rival
+promotion
+managerial decision
+business ethics
+Competitive price
+supplier
+vendor
+derivative policy
+expense account
+approval procedure
+sick leave
+vacation
+labor-hour
+machine-hour
+capital outlay
+cash flow
+wage rate
+tax rate
+dividend
+cash position
+capital shortage
+overall budget
+balance sheet
+feasibility
+practitioner
+end result
+performance
+personal interest
+welfare
+market share
+innovation
+productivity
+profitability
+public responsibility
+board of director
+appraisal tool
+motivational techniques
+control device
+personal worth
+strength
+weakness
+opportunity
+threat
+personal responsibility
+counselor
+quantitative objective
+qualitative objective
+verifiable objective
+priority
+payroll
+strategy
+policy
+discretion
+diversification
+assessment
+consistency
+consistency strategy
+public relation
+value
+aspiration
+prejudice
+review
+approval
+major decision
+portfolio matrix
+star
+question mark
+cash cow
+dog
+procurement
+demographic factor
+geographic factor
+company image
+product line
+joint venture
+liquidation strategy
+retrenchment strategy
+tactics
+followership
+individuality
+personality
+safety
+latitude
+pessimistic
+static
+optimistic
+dynamic
+flexible
+resistance
+antagonism
+eclectic
+motivation
+subconscious
+status
+affection
+pressure
+satisfaction
+esteem needs
+affiliation needs
+security needs
+maintenance
+hygiene
+motivator
+probability
+reinforcement theory
+feedback
+bonus
+stock option
+labor dispute
+absenteeism
+turnover
+reward
+franchise
+zeal
+confidence
+inspire
+ingredient
+loyalty
+devotion
+style
+trait
+adaptability
+aggressiveness
+enthusiasm
+persistence
+interpersonal skills
+administrative ability
+intelligence
+autocratic leader
+democratic leader
+work efficiency
+obedience
+leader behavior
+insubordination
+Open-door
+Growth stage
+Programmed learning
+Junior board
+Savings plan
+citations
+flextime
+grades
+Grade description
+Fact-finder
+Survey feedback
+mediation
+Grid training
+Nondirective interview
+Illegal bargaining
+benefits
+Golden offerings
+bias
+Pay grade
+Rate ranges
+Wage carve
+Job analysis
+Job sharing
+Job posting
+job description
+Application forms
+Job specifications
+stock option
+Defined benefit
+Defined contribution
+Worker involvement
+burnout
+Benchmark job
+merit pay
+Merit raise
+dismissal
+termination
+Economic strike
+downsizing
+boycott
+layoff
+Work sharing
+Annual bonus
+Ranking method
+training
