@@ -10,10 +10,7 @@ from lxml.html import fromstring
 import pandas as pd
 import csv
 
-titleZ = []
-dateZ = []
-sourceZ = []
-contentZ = []
+
 newsUrl = []  # save url
 
 
@@ -72,7 +69,7 @@ def getIp():
     return IP
 
 
-def getHTMLText(url):
+def getHTMLText(url,titleZ,dateZ,sourceZ,contentZ):
 
 
         agent = 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36'
@@ -93,7 +90,7 @@ def getHTMLText(url):
             if hrefCom not in newsUrl:
             #
                 newsUrl.append(hrefCom)
-                getContentOfNews(hrefCom)
+                getContentOfNews(hrefCom,titleZ,dateZ,sourceZ,contentZ)
             # else:
             #     continue
 
@@ -102,13 +99,17 @@ def getHTMLText(url):
 
 
 def getAllurlOfNews():
+    titleZ = []
+    dateZ = []
+    sourceZ = []
+    contentZ = []
     for i in range(1, 2):
         # http://finance.eastmoney.com/a/cgsxw_3.html
         url = 'http://finance.eastmoney.com/a/cgsxw_' + str(i) + '.html'
-        getHTMLText(url)
+        getHTMLText(url,titleZ,dateZ,sourceZ,contentZ)
 
 
-def getContentOfNews(url):
+def getContentOfNews(url,titleZ,dateZ,sourceZ,contentZ):
     agent = 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36'
     cookie = 'qgqp_b_id=de6f5b2aab0bf1b85367cff30462fbd1; st_pvi=64069861991421; st_sp=2019-01-24%2018%3A36%3A57; st_si=94918195918945; st_asi=delete; bdshare_firstime=1548326400263; st_sn=12; st_psi=2019012418445425-111000300841-9825945936'
     refer = 'http://finance.eastmoney.com/news/cgnjj_1.html'
@@ -168,10 +169,12 @@ if __name__ == "__main__":
     # while(1):
     #     if(a>1):
     #
-    getAllurlOfNews()
-    dataframe = pd.DataFrame({'title': titleZ, 'date': dateZ, 'source': sourceZ, 'content': contentZ})
+    for a in range(100):
+        address='D:\\test\\txtTocsv\\dongfangTest'+str(a)+'.csv'
+        getAllurlOfNews()
+        dataframe = pd.DataFrame({'title': titleZ, 'date': dateZ, 'source': sourceZ, 'content': contentZ})
 
-    dataframe.to_csv("D:\\test\\txtTocsv\\dongfangTest.csv", index=False, sep=',',encoding="utf_8_sig")
+        dataframe.to_csv(address, index=False, sep=',',encoding="utf_8_sig")
 
     # else:
     #     getAllurlOfNews()
