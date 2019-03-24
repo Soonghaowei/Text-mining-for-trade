@@ -9,11 +9,17 @@ from selenium.webdriver.common.desired_capabilities import DesiredCapabilities
 from lxml.html import fromstring
 import pandas as pd
 import csv
+import codecs
+
+import importlib
+import  sys
+import codecs
 
 
 newsUrl = []  # save url
-
-
+writer = csv.writer(open('D:\\test\\txtTocsv\linking\\testnews.csv', 'w', newline='',encoding='utf-8-sig'))
+writer.writerow(['title','date','source','content'])
+writer.writerow(codecs.BOM_UTF8)
 def userAgent():
     user_agents = [
         "Mozilla/5.0 (Linux; U; Android 2.3.6; en-us; Nexus S Build/GRK39F) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1",
@@ -69,7 +75,7 @@ def getIp():
     return IP
 
 
-def getHTMLText(url,titleZ,dateZ,sourceZ,contentZ):
+def getHTMLText(url ):
 
 
         agent = 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36'
@@ -90,26 +96,30 @@ def getHTMLText(url,titleZ,dateZ,sourceZ,contentZ):
             if hrefCom not in newsUrl:
             #
                 newsUrl.append(hrefCom)
-                getContentOfNews(hrefCom,titleZ,dateZ,sourceZ,contentZ)
+                getContentOfNews(hrefCom )
             # else:
             #     continue
 
-        print(newsUrl)
+        # print(newsUrl)
 
 
 
 def getAllurlOfNews():
+
+    for i in range(26):
+        # http://finance.eastmoney.com/a/cgsxw_3.html
+        try:
+            url = 'http://finance.eastmoney.com/a/cgsxw_' + str(i) + '.html'
+            getHTMLText(url )
+        except:
+            a=1
+
+def getContentOfNews(url ):
     titleZ = []
     dateZ = []
     sourceZ = []
     contentZ = []
-    for i in range(1, 2):
-        # http://finance.eastmoney.com/a/cgsxw_3.html
-        url = 'http://finance.eastmoney.com/a/cgsxw_' + str(i) + '.html'
-        getHTMLText(url,titleZ,dateZ,sourceZ,contentZ)
 
-
-def getContentOfNews(url,titleZ,dateZ,sourceZ,contentZ):
     agent = 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36'
     cookie = 'qgqp_b_id=de6f5b2aab0bf1b85367cff30462fbd1; st_pvi=64069861991421; st_sp=2019-01-24%2018%3A36%3A57; st_si=94918195918945; st_asi=delete; bdshare_firstime=1548326400263; st_sn=12; st_psi=2019012418445425-111000300841-9825945936'
     refer = 'http://finance.eastmoney.com/news/cgnjj_1.html'
@@ -125,14 +135,15 @@ def getContentOfNews(url,titleZ,dateZ,sourceZ,contentZ):
 
     # f = open('D:/Soong/materialOfNlp/dongfangcaifuGONGSI/' + title + '.txt', 'a+', encoding='utf-8')
     print("sdff")
-
+    title=str(title)
     titleZ.append(title)
+
 
     date = soup.select('div.time')[0]
     date = str(date).replace('<div class="time">', '')
     date = str(date).replace('</div>', '')
     print(date)
-
+    date = str(date)
     dateZ.append(date)
 
     source = soup.select('div.source')[0]
@@ -142,7 +153,7 @@ def getContentOfNews(url,titleZ,dateZ,sourceZ,contentZ):
     source = str(source).replace('</div>', '')
     source = str(source).replace(' ', '')
     source = str(source).replace('\n', '')
-
+    source = str(source)
     sourceZ.append(source)
 
     # f.write(str(source))
@@ -156,6 +167,7 @@ def getContentOfNews(url,titleZ,dateZ,sourceZ,contentZ):
         content = str(content).replace('</p>, <p>', '')
         # print(content)
         content1 = content1 + content
+        content1= str(content1)
     # f.write(str(content1))
     contentZ.append(content1)
 
@@ -163,18 +175,15 @@ def getContentOfNews(url,titleZ,dateZ,sourceZ,contentZ):
     # print(titleZ)
     # f.close()
 
+    writer.writerow([titleZ,dateZ, sourceZ,contentZ])
 
-if __name__ == "__main__":
-    a = 1
-    # while(1):
-    #     if(a>1):
-    #
-    for a in range(100):
-        address='D:\\test\\txtTocsv\\dongfangTest'+str(a)+'.csv'
+for a in range(2000000):
+
         getAllurlOfNews()
-        dataframe = pd.DataFrame({'title': titleZ, 'date': dateZ, 'source': sourceZ, 'content': contentZ})
-
-        dataframe.to_csv(address, index=False, sep=',',encoding="utf_8_sig")
+        time.sleep(36000)
+        # dataframe = pd.DataFrame({'title': titleZ, 'date': dateZ, 'source': sourceZ, 'content': contentZ})
+        #
+        # dataframe.to_csv(address, index=False, sep=',',encoding="utf_8_sig")
 
     # else:
     #     getAllurlOfNews()
