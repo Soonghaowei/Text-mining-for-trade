@@ -1,0 +1,76 @@
+import csv
+import os
+import pandas as pd
+title=[]
+dates=[]
+authors=[]
+contens = []
+for filename in os.listdir('D:\\Soong\\Soong\\dongfangcaifu\\data\\dongfangcaifuAllcsvTXT'):
+    f=open('D:\\Soong\\Soong\\dongfangcaifu\\data\\dongfangcaifuAllcsvTXT\\'+filename, 'r',  encoding="utf_8")
+    lines=f.readlines()
+    a = 0;
+    conten=''
+    for line in lines:
+            a=a+1
+            if (a==1):
+                titles = line
+                # titles = titles.replace('title:','')
+                titles = titles.strip()
+                if(len(titles)>0):
+                    title.append(str(titles))
+                else:
+                    title.append('null')
+#                 title.append(titles)
+            if (a==2):
+                date=line
+                # date=date.replace('Date:','')
+                date=date.strip()
+#                 dates.append(date)
+                if(len(date)>0):
+                    dates.append(str(date))
+                else:
+                    dates.append('null')
+            if (a==3):
+                author = line
+                # author=author.replace('Date:','')
+                author=author.strip()
+                if(len(author)>0):
+                    str(authors).strip()
+                    authors.append(str(author))
+                else:
+                    authors.append('null')
+               
+            if (a>=4):
+                conten2 = line
+#                 # conten=conten.replace('Date:','')
+#                 # conten=conten.strip()
+#             if(a>4):
+#                 conten2 = line
+                conten=conten+conten2
+    conten=str(conten).strip()
+    if(len(conten)>0):
+            contens.append(str(conten))
+
+
+    if(a<1):
+            title.append('null')
+            dates.append('null')
+            authors.append('null')
+            contens.append('null')
+    if(a==1 ):
+        dates.append('null')
+        authors.append('null')
+        contens.append('null')
+        
+    if(a==2):
+        authors.append('null')
+        contens.append('null')
+    if(a==3):
+        contens.append('null')
+print(len(title))    
+print(len(dates))  
+print(len(authors))  
+print(len(contens))  
+
+dataframe=pd.DataFrame({'title':title,'date':dates,'source':authors,'content':contens})
+dataframe.to_csv("D:\\Soong\\Soong\\dongfangcaifu\\data\\csv\\dongfang54.csv", index=False,  encoding="utf_8")
