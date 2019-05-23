@@ -1,0 +1,91 @@
+import csv
+import jieba
+from bs4 import BeautifulSoup
+import re
+import pandas as pd
+import os
+import time
+import requests
+from nltk.tokenize import WordPunctTokenizer
+import jieba
+import random
+from bs4 import BeautifulSoup
+import unicodedata
+import json
+from nltk.tokenize import WordPunctTokenizer
+import numpy as np
+import tushare as ts   #60001
+
+haha=pd.read_csv('D:\\Soong\\Soong\\dongfangcaifu\\data\\csv\\PreprofitDayy.csv')
+date=haha['date1']
+
+codeOfti=haha['comCodeTitle']
+codeOftit=codeOfti.as_matrix()
+
+oneweek=[]
+twoweek=[]
+threeweek=[]
+fourweek=[]
+fiveweek=[]
+for code in codeOftit:
+
+    allz = ts.get_hist_data(str(code),ktype='w')
+    dateStock = []
+    for index in range(len(allz['p_change'])):
+        StockDate = str(allz['p_change'][[index]])[5:15].replace('-', '')
+        fin = ''.join(StockDate)
+        dateStock.append(fin)
+#     print(len(dateStock))   
+
+
+        for newDay in date:
+
+            for index in range(len(dateStock)):
+
+
+                if (int(newDay) <= int(dateStock[index]) and  int(dateStock[index])-int(newDay) <7 ):
+                    fin1 = ''.join(str(allz['p_change'][[index]])[18:23].replace('date\n', '').replace(' ', '').replace('\n', ''))
+                    fin2 = ''.join(str(allz['p_change'][[index-1]])[18:23].replace('date\n', '').replace(' ', '').replace('\n', ''))
+                    fin3 = ''.join(str(allz['p_change'][[index-2]])[18:23].replace('date\n', '').replace(' ', '').replace('\n', ''))
+                    fin4 = ''.join(str(allz['p_change'][[index-3]])[18:23].replace('date\n', '').replace(' ', '').replace('\n', ''))
+                    fin5 = ''.join(str(allz['p_change'][[index-4]])[18:23].replace('date\n', '').replace(' ', '').replace('\n', ''))
+    
+    if(fin1==''):
+        oneweek.append('null')
+        
+    else:
+        oneweek.append(fin)
+ 
+    if (fin2 != '' and fin1!=''):
+        two=float(fin1)+float(fin2)+0
+        twoweek.append(float(two))        
+    else:
+        twoweek.append('null')
+                
+    if (fin2 != '' and fin1!='' and fin3 != ''):
+        three=float(fin1)+float(fin2)+float(fin3)+0
+        threeweek.append(float(three)) 
+    else:
+        threeweek.append('null')
+        
+    if (fin2 != '' and fin1!='' and fin3 != '' and fin4 != ''):
+        four=float(fin1)+float(fin2)+float(fin3)+float(fin4)+0
+        fourweek.append(four)
+        
+    else:
+        fourweek.append('null')
+    if (fin2 != '' and fin1!='' and fin3 != '' and fin4 != '' and fin5 != ''):
+        five=float(fin1)+float(fin2)+float(fin3)+float(fin4)+float(fin5)+0
+        fiveweek.append(five)
+        
+    else:
+        fiveweek.append('null')
+#print(oneweek)
+#print(twoweek)
+
+NewTitle=haha['title']
+NewDate=haha['date']
+NewContent=haha['content']
+
+dataframe = pd.DataFrame({'title':NewTitle,'date':NewDate,'content':NewContent,'oneweek':oneweek,'twoweek':twoweek,'threeweek':threeweek,'fourweek':fourweek,'fiveweek':fiveweek})
+dataframe.to_csv("D:\\Soong\\Soong\\dongfangcaifu\\data\\csv\\profitMouth.csv",index=False,sep=',')
