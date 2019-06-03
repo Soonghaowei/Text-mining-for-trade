@@ -1,0 +1,45 @@
+from __future__ import print_function
+
+import sys
+try:
+    reload(sys)
+    sys.setdefaultencoding('utf-8')
+except:
+    pass
+
+import codecs
+from textrank4zh import TextRank4Keyword, TextRank4Sentence
+
+
+import pandas as pd
+path='D:\\Soong\\Soong\\dongfangcaifu\\data\\csv\\profitMouth_1Or1.csv'
+news=pd.read_csv(path)
+title=news['title']
+date=news['date']
+twoweek=news['twoweek']
+threeweek=news['threeweek']
+fourweek=news['fourweek']
+fiveweek=news['fiveweek']
+
+
+from bs4 import BeautifulSoup
+
+
+newContent=[]
+for text in news['content']:
+    bs = BeautifulSoup(text,"html.parser")
+
+    ttt=bs.text
+
+
+    tr4s = TextRank4Sentence()
+    tr4s.analyze(text=ttt, lower=True, source = 'all_filters')
+
+    # print()
+    # print( '摘要：' )
+    for item in tr4s.get_key_sentences(num=1):
+        # print(item.index, item.weight, item.sentence)  # index是语句在文本中位置，weight是权重
+        haha=item.sentence
+        newContent.append(haha)
+dataframe = pd.DataFrame({'title': title, 'date': date, 'content': newContent, 'twoweek': twoweek, 'threeweek': threeweek, 'fourweek': fourweek, 'fiveweek': fiveweek})
+dataframe.to_csv("D:\\Soong\\Soong\\dongfangcaifu\\data\\csv\\summaryContent.csv", index=False, sep=',')
