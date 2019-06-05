@@ -1,8 +1,6 @@
-# obtain-business-news
-from now, this project has two python files,one is to get the Yahoo news the other is to get the Newsmax news and save them to the relative folder.
-when you use those news, you should change the folder address or the terminal will report an error
-as for the Yahoo news, I use the selenium & request (dynamic website)
-as for the Newsmax news, I only use the request(dynamic website)
-
-
-TOP-DRAWER: if you think they are useful, pls give a Star :)
+1. For Original_dataset: 
+(1) is at the OriginalDataSet: including January  2015  to  May  2019  financial  news  dataset  and the total number are 169,000. In addition, this dataset are only including the url of each news.
+(2) Pro-processing : go to : Text-mining-for-trade/code to get Eastmoney company News/  run files:  a. First_fromUrlGetNewsToTxt.py b. Second_TxtToCSV c. Third_newsTofindCompanyCode.py  d. fourth_getStockOfMonth_week  
+    moreover, summarizeContent.py is to use the text summarization method 
+2. For prediction model:
+run Text-mining-for-trade/train/train.py  file, and change the parameters, to train the different models
